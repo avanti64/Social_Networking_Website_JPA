@@ -1,0 +1,1396 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl
+{\f0\froman\fcharset0\fprq2\fttruetype Times New Roman;}
+{\f1\froman\fcharset0\fprq2\fttruetype Symbol;}
+{\f2\fmodern\fcharset0\fprq1\fttruetype Courier New;}
+{\f3\fswiss\fcharset0\fprq2\fttruetype Arial;}
+{\f4\fswiss\fcharset0\fprq2\ftnil Dingbats;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;}
+{\stylesheet
+{\s1\tx1584\sbasedon57\snext33Chapter Heading;}
+{\s2\fi-425\li720Box List;}
+{\*\cs15Hyperlink;}
+{\s5\sbasedon33\snext33Address;}
+{\s6\fi-425\li720\sbasedon25Lower Case List;}
+{\s7\qc\f0\fs16\snext33z-Top of Form;}
+{\*\cs4Strong;}
+{\s9\fi-425\li720Triangle List;}
+{\s20\sb440\sa60\f3\fs34\b\sbasedon33\snext33Heading 1;}
+{\s11\sb440\sa60\f3\fs28\b\sbasedon33\snext33Heading 2;}
+{\s23\sb440\sa60\f3\fs24\b\sbasedon33\snext33Heading 3;}
+{\s13\sb440\sa60\f3\fs24\b\sbasedon33\snext33Heading 4;}
+{\s14\fi-425\li720Heart List;}
+{\s16\li1440\ri1440\sa117\sbasedon33Block Text;}
+{\s17\fi-425\li720Square List;}
+{\s8\li360\ri360\sb99\sa99\sbasedon33Blockquote;}
+{\s19\qc\sb240\sa117\f3\fs32\b\sbasedon33\snext33Contents Header;}
+{\s10\fi-425\li720\sbasedon25Upper Case List;}
+{\*\cs21\fs20\sbasedon33Footnote Text;}
+{\*\cs22Variable;}
+{\s12\fi-425\li720Bullet List;}
+{\*\cs24Comment;}
+{\s25\fi-425\li720Numbered List;}
+{\s26\fi-425\li720Diamond List;}
+{\s27\fi-425\li720Hand List;}
+{\*\cs60\f0Sample;}
+{\*\cs28Emphasis;}
+{\*\cs29\fs20Reference;}
+{\s31\qc\f0\fs16\snext33z-Bottom of Form;}
+{\s32\fi-425\li720\sbasedon25Upper Roman List;}
+{\s33\f0\fs24Normal;}
+{\s49\fi-425\li720Implies List;}
+{\*\cs36\f0\fs20CODE;}
+{\s37\sb99\sa99\fs48\sbasedon33\snext33H1;}
+{\s38\sb99\sa99\fs36\sbasedon33\snext33H2;}
+{\s39\sb99\sa99\fs28\sbasedon33\snext33H3;}
+{\s40\sb99\sa99\fs24\sbasedon33\snext33H4;}
+{\s41\sb99\sa99\fs20\sbasedon33\snext33H5;}
+{\s18\sb99\sa99\fs16\sbasedon33\snext33H6;}
+{\s59\tx431\sbasedon23\snext33Numbered Heading 3;}
+{\s43\fi-425\li720Star List;}
+{\s44\tx1584\sbasedon57\snext33Section Heading;}
+{\*\cs45\f0\fs20Keyboard;}
+{\*\cs46FollowedHyperlink;}
+{\s47\sbasedon33\snext30Definition Term;}
+{\s48\tx0\tx958\tx1917\tx2877\tx3836\tx4794\tx5753\tx6713\tx7672\tx8631\tx9589\f0\fs20\sbasedon33Preformatted;}
+{\*\cs34Definition;}
+{\*\cs35CITE;}
+{\s57\tx431\sbasedon20\snext33Numbered Heading 1;}
+{\s61\fi-425\li720\sbasedon33\snext33Contents 1;}
+{\*\cs3\f0\fs20Typewriter;}
+{\s53\fi-425\li720\sbasedon33Lower Roman List;}
+{\*\cs54\fs20\superFootnote Reference;}
+{\*\cs55\sbasedon33Endnote Text;}
+{\*\cs56\fs20\superEndnote Reference;}
+{\*\cs51HTML Markup;}
+{\s58\tx431\sbasedon11\snext33Numbered Heading 2;}
+{\s52\fi-425\li720Dashed List;}
+{\s64\fi-425\li2880\sbasedon33\snext33Contents 4;}
+{\s42\f2\sbasedon33Plain Text;}
+{\s50\fi-425\li720Tick List;}
+{\s62\fi-425\li1440\sbasedon33\snext33Contents 2;}
+{\s63\fi-425\li2160\sbasedon33\snext33Contents 3;}
+{\s30\li360\sbasedon33\snext47Definition List;}}
+{\*\listtable
+{\list\listtemplateid1066\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-425\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1025}
+{\list\listtemplateid1067\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-425\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1034}
+{\list\listtemplateid1068\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-425\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1051}
+{\list\listtemplateid1069\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-425\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1075}
+{\list\listtemplateid1070\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-425\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1144}
+{\list\listtemplateid1071\listsimple{\listlevel\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-425\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}}\listid1161}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1025\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-425\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls1}
+{\listoverride\listoverridecount0\listid1034\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-425\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls2}
+{\listoverride\listoverridecount0\listid1051\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-425\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls3}
+{\listoverride\listoverridecount0\listid1075\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-425\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls4}
+{\listoverride\listoverridecount0\listid1144\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-425\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls5}
+{\listoverride\listoverridecount0\listid1161\levelnfc0\levelstartat1\levelspace0\levelfollow0\fi-425\li720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\ls6}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+{\footer\pard\plain
+\pard\plain\ltrpar\qr\itap0{\field{\*\fldinst {\f0\fs24\lang1033{\*\listtag0} PAGE }}{\fldrslt {\noproof  ?}}}}
+\sectd\sbknone\colsx360\pgncont\ltrsect
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Title:}{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Social Networking Website for Groups}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Authors:}{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\i\lang1033{\*\listtag0}\abinodiroverride\ltrch Team - DB Chronicles}{\s33\f0\fs24\i\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\i\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\i\lang1033{\*\listtag0}\abinodiroverride\ltrch Team Members -}{\s33\f0\fs24\i\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Aniket Ghodke (ghodke.a@husky.neu.edu)}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Avanti Rajiv Kabra (kabra.a@husky.neu.edu)}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Swara Saxena (saxena.s@husky.neu.edu)}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Abstract:}{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Web-based social networking services make it possible to connect people who share interests and activities across political, economic, and geographic borders. Through e-mail and instant messaging, online communities are created where a gift economy and reciprocal altruism are encouraged through cooperation. Our website also does the same and links individuals within a group by sharing ideas on common topics. People can connect and share their views on various topics on Media or Sports or any other group and have discussions within the group.}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Introduction:}{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Our website aims to allow users to discuss on a common forum. The following are the goals of this application:}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1025\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Allow users within a group to communicate and connect with each other. }{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\sb99\sa99\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\sb99\sa99\s12{\*\abilist\abilistid1025\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Users can post and comment on each other's posts.}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\sb99\sa99\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\sb99\sa99\s12{\*\abilist\abilistid1025\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Users can belong to one or more groups and be connected on various topics.}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\sb99\sa99\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\sb99\sa99\s12{\*\abilist\abilistid1025\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Allows new user to join the website by signing up.}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\sb99\sa99\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\sb99\sa99\s12{\*\abilist\abilistid1025\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Allows administrator to approve or reject any request by a user to join a particular group.}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Our website can be extended by including the functionality to allow administrator to view all users and delete (if needed) users, create groups and allow the users to join any group. As of now these processes are handled by the database administrator as an offline process.}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Requirements:}{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The following are the requirements of the project:}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1034\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Develop a site through which the users can be connected to each other.}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1034\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Discussion board is divided into groups.}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1034\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch User can post a new post or discussion thread on approved groups}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1034\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch User can comment on existing posts}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1034\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Administrator can view and edit all posts in each of the groups}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1034\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Administrator can approve or reject requests from user to join a new group}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch These requirements can be illustrated with the help of the following use case diagram.}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\*\shppict{\pict\pngblip\picw919\pich711\picwgoal18380\picscalex48\pichgoal14220\picscaley36
+\bliptag10000{\*\blipuid 00000000000000000000000000002710}
+89504e470d0a1a0a0000000d4948445200000397000002c708060000001a6cb6
+a6000000017352474200aece1ce90000000467414d410000b18f0bfc61050000
+00097048597300000ec300000ec301c76fa8640000697b49444154785eedddbd
+b6e4b6b1306c5fd7b9205f8f6fc20ea5ec1ca54aad585ff206ce9d3bf6a79a51
+49180cc9e60f4882c4f3ac85b5bb9b6cfe0055246a77cf9ebffc170000000e52
+5c0200007098e212000080c314970000001ca6b8040000e030c5250000008729
+2e010000384c71090000c0618a4b0000000e535c0200007098e212000080c314
+970000001ca6b8040000e030c52500000087292e010000384c71090000c0618a
+4b0000000e535c0200007098e212000080c314970000001ca6b8040000e030c5
+2500000087292e010000384c71090000c0618a4b0000000e535c0200007098e2
+12000080c314970000001ca6b8040000e030c52500000087292e010000384c71
+090000c0618a4b0000000e535c0200007098e212000080c314970000001ca6b8
+040000e030c52500000087292e010000384c71090000c0618a4b0000000e535c
+0200007098e212000080c314970000001ca6b8040000e030c52500000087292e
+010000384c71090000c0618a4b0000000e535c0200007098e212000080c31497
+0000001ca6b8040000e030c52500000087292e010000384c71090000c0618a4b
+0000000e535c0200007098e212000080c314970000001ca6b8040000e030c525
+7092fff7dfbffdcf5ffefb97bf14edaffffbfbb203fedfdffefb3f7ff9eb7f3f
+6e6969bd2fcbfef2dffff9dbfffbfd85dfadddf6e9bef6dd64779d708cfffbd7
+89b1f9dfbf7e19b3ba8f26d7fdcec2f12fe9a6ff01803d1497c029be2f427e2f
+3637571c3bad282eff522f5f5bdc9c5e04ed2cce76fa7f7ffb9ffffee57ffef6
+db5eff14e3f7d7bffe56604e8ce17745f9771a1cbf4213001e4771099ce07fff
+fbd7bffccf7fbfab41ae2c1896f6f5fbb2bffd56547d5328ad3dbed3cfe3dae2
+f2fbf389f18be7f933cd8ceb771497003022c5257082afc5c5c74f29bf1410f1
+0962b4aa68f9665951a8d445c7ef5fdffca3e58a4bc5c91fcbe2388b75be7b4f
+1453b9ed7cbd7c2d8eb92aa47e3fee3f9ec7f1e5a782bf2ffbf3bd5fd6f8fafa
+6fc7f1d7e8b33f8eabdac66feff9520897c7f8fbe32892bf6eb3fa54b1dcdf5f
+ffb650f07d3da76fcee1cb31c77114c7599ecb1753fd137e3ffef8e4f3f7e5df
+1cd7376356f5c397edd47dfcfbf2d9fd01003d505c0227290b81dfda77554d55
+d07c2938b260a8964d145493eb7dd9c6efc5c837eb55ca65f19edcc037eff9b6
+c0fbe6aba3d5b6bf2ccb157fdbdefffc5690653115cbbe3e5e38df2fdb2b9695
+fb2ecf2994fbfefd7d7f146ee536abfd7d39c66ff6f1adf81aecf7c7fcfde33f
+c771a17f7e5ff6e7f3f258e2f14cc1faddb9fdd9c7cbfb03007aa0b8042ef0b5
+b8f8a6c8fcae78288a8eb2e0a87df7be52b18da5f5be591645cbc47b968eaf5e
+16cf7f3fdefffdeb6febfcef6fcfbf9c6751107ddcdeef8fbff8fd7d7fab5fff
+4db99dfa7de5b2effaf0eb1864f77f27d6ff7de1977f6f99eb15dbf9e6f5a5f3
+29cffb777ffe1bdc85e3f8eedc8aed2fee0f00e881e212b8ce9702e1f782e0bb
+e2e7cf8264f153a9c9a2e3f7c2f54bfb7dfbdf152385a96d7cddf19faf7fb7dd
+a56d67a113e710afc7f3f267ac327fbedf6fefebb258ff7fbff9b4f037df1d63
+f1bee2f9f77df87dc1f78d78ef97f58b63fe62e25cc2977dcdf4cfc4bebefdd4
+33b6f5e7fbfe78f9e3b995fb8a96fb03007aa0b804da8b42ea9b02252d155451
+70fc5e2c7c578815be2b40ca02a3d8c677db2f4c2cfbf2a9dc974f0acb6def78
+ffefc7fde513ccbffd761e59397df79ea5632d8bb362bd50ae5bbfaf7cfe5d1f
+7e2de8fe28e4be13fbfc6d3ff1a9eb7745e9c4ebdf1d73e9fbe232fae78fafef
+96ca58597b6e0040971497c009be16177581f8eda76955b1f34d415a2dfb5258
+4c14625511fbe5ab973b8bcbafafc5fbf3f5aa402adff3e57151f085df8ee5bb
+7f6b593cffee9ce68aaa2faa7dc7bad96fdf1d47f1be6f9e7fbbbf2f7d5fee7f
+c29702f09b63fe2ade1b7f9ce7dbd717fae7f765df1ef3efeb7e795cf4dd5c3f
+d4eb2dee0f00e881e21238cdd762af6855b19945c7e4571cbf59f6a188f97d9d
+fff9dbfffe59802c151f33cbbe1660e5eb5f0bb4ef8fefcffd7e7b5cc5f32f45
+d3d23915cbbe3b9eaa90cafdc50be5baf5fb269fffbebfdf8ac36f3e019d3275
+cce1cbebe5f1a4e5fed9ffd762bf3cf9be8f67f70700f4407109308428cc1464
+00c0791497006ff4e553c0a2982cbf7e0a007002c525c04be5bfb3f4355200e0
+0a8a4b0000000e535c0200007098e212000080c314970000001ca6b8040000e0
+30c52500000087292e010000384c71090000c0618a4b0000000e535c02000070
+98e212000080c314970000001ca6b8040000e030c52500000087292e01000038
+4c71090000c0618a4b0000000e535c0200007098e212000080c314970000001c
+a6b8040000e030c52500000087292e010000384c71090000c0618a4b0000000e
+535c0200007098e212000080c314970000001ca6b8040000e030c52500000087
+292e010000384c71090000c0618a4b0000000e535c0200007098e212000080c3
+14970000001ca6b8040000e030c52500000087292e010000384c71090000c061
+8a4b0000000e535c0200007098e212000080c314970000001c367c71f997bffc
+45d3344dd3344dd3866ed082e2523201003030f3615a515c4a26000006663e4c
+2b8a4bc90400c0c0cc87694571299900001898f930ad282e2513000003331fa6
+15c5a56402006060e6c3b4a2b8944c00000ccc7c985614979209008081990fd3
+8ae2523201003030f3615a515c4a26000006663e4c2b8a4bc90400c0c0cc8769
+4571299900001898f930ad282e2513000003331fa615c5a56402006060e6c3b4
+a2b8944c00000ccc7c985614979209008081990fd38ae2523201003030f3615a
+515c4a26000006663e4c2b8a4bc90400c0c0cc87694571299900001898f930ad
+282e2513000003331fa615c5a56402006060e6c3b4a2b8944c00000ccc7c9856
+14979209008081990fd38ae2523201003030f3615a515c4a26000006663e4c2b
+8a4bc90400c0c0cc87694571299900001898f930ad282e2513000003331fa615
+c5a56402006060e6c3b4a2b8944c00000ccc7c985614979209008081990fd38a
+e2523201003030f3615a515c4a26000006663e4c2b8a4bc90400c0c0cc876945
+71299900001898f930ad282e2513000003331fa615c5a56402006060e6c3b4a2
+b8944c00000ccc7c985614979209008081990fd38ae2523201003030f3615a51
+5c4a26000006663e4c2b8a4bc90400c0c0cc87694571299900001898f930ad28
+2e2513000003331fa615c5a56402006060e6c3b4a2b8944c00000ccc7c985614
+979209008081990fd38ae2523201003030f3615a515c4a26000006663e4c2b8a
+4bc97499e8eb33dabffffdeffffee73ffff97d2fd0a7a9d83da3c907e8c7548e
+9ed9e43f7b45fc400b8a4bc9d44479739b6bfffad7bf4e6953fbaa9b1b2e5799
+8abf6853b17b469bda77343900e7abf36e2a47cf6cf5fee53d6b45bc400b8a4b
+c9b45979e3ca367593bbd32fbffcf2df5f7ffdf58f63a98fd70d973dea389a6a
+77c7fe9ca963ad9bbc8065537953b61eee7f29ee8353c7984dbe538a98801614
+9792e9a3f266142d6f9ebd4ea23f99bbe1bad1529a8a9127c7fd27f202be57e7
+c3d3ef7f49be538bf18716149792695279b379f3843a95375a37d7f194f19e6d
+84b8ffc404941195b13ed275c07d706c31eed082e252327d9137946c234faceb
+be70937da7728c478ef7adea82537ef074653c47732d701f1c518c33b4a0b81c
+3899ca1b87c9f5bcb29fdc609fad1c4bf1de46d9a7f283272863369afbdf6775
+9fc9f5f7897185161497032653de1cdc50b7cbbe73637d861caf6ce2fd5c655f
+cb117a535e07dcfff6f3f5d9778af184161497032553de0cdc548fcbbe7463ed
+9358bf9f1ca117f5f5c035a10d45e6bbc438420b8acb4192292ffe6eaa6db9b1
+f625c7c304b21f72843b65ecb9269c4791f90e317ed082e2728064ca0b3ee789
+3e8e898b9bea3da2ff730ce8538e51341350cee69a708fec73f9fd3c3176d082
+e2f2c5c9e4e67aadec6f13e7eb88f167922b9c2963cb75e11ef2fb9962cca005
+c5e54b93292fec5c2ffade6f6ecf157d9cfdcc73e5389a84d24ac6936bc3bd7e
+fef967b9fd30315ed082e2f285c99417f4ab2cf5e1d1fe7deaf8c4712b30cf91
+f16df2f80e26a1b492717496b5f7a3b5eb8d20fac2bdf019c42dad0c1f496f4b
+a6389f2b0bcbb0d48747fbf7c9e313c7eea6dad61df1cd35e40b47b836f44b6e
+3f438c13b4307c24bd29998ede5cebbe289fe7e3f839b7ded2b294ebd4af87a9
+d73f3d0f6bde93ad36b72c9f4fbd678b78bf9b6a1bd197a34e1e8fc6e1d5f61e
+af7c618fabae0d755cc7f36ca5f2793e9e5aaf56ae53ae3bf75ab6d2d2f37c3c
+f5beb3c5fee476dfae8e09de6bf8487a4b32c5791cbdb9d67d513e8fc7f5f3f4
+69592a1f87adefa9df9fead797deb36559bd7cafd88e9bea31d187237f2ad12a
+16af72e478e50b5b5c796d28e3ba8ef1b965f178e97de9d37beae7a52dcb96d6
+3d5bec4f6ef7ebea78e0bd868fa4b724535eb48fa8fba27cde62d9966da47c7d
+6e79d8b3ddb0f77d5bc5b6e2ff011bb9383a22faafc52f4ea6c6345faf97e5f3
+7ad9d17543be5e2fcbe7f5b27c5ebe569a5b9ecfa796953ead97afaf5d36f5da
+56f15e9350d6c858b94219d3757ccf2d5b5aafb4767b61efba9fb673b6d89f7b
+61bfae8e07de6bf8487a4b32b5388f7a1be5f316cbb66c23c5ebd9e6d4cba69e
+4f6da37cbd5e5e3e3e2ab6157fb4e4aa09d09b44dfb5282cd3d218d7cb3e3d4f
+5bd72ded7d5faa5fafdfb3761b73ebd5efd9bb6c8fd88602934f5ac4da5a4b31
+3eb76c69bdd2daed85bdeb7edaced9627fee85fdba3a1e78afe123e92dc9d4e2
+3cea6d94cf5b2cdbb28db4759d30b75e58b3bdb0b46c8fd8deafbffe6aa2bc51
+f4dbd189c8dc58d6af97cf97968533d6ddb22ceddd5e69ef36e6b6179696ad15
+dbf029079fb488b5b596e27f6ed9d27aa5b5db0b7bd7fdb49d2bc43edd0bfb74
+473cf04ec347d21b9229cea1c56f02cbbe88c7f5f3d2da75e71e87adefa9df9f
+ea7596deb377d951b13d13e5ed5a8cc3dc36ead7cbe74bcbc29175eb96cac761
+6959daf29e33b611cfb395eae77bc4367ccac19288912be3a38ceba5985fbb5e
+a97ecf966dccad1b8f3f3dbf5aecd3bdb04f77c403ef347c24bd21995a9e436c
+2bb7576eb7dec7d4b2f8b9b45ec875ead7c3d4eb9f9ea7f2bd53ef299797e696
+4dad7b446ccf44799be8b3d6bf34292d8df9d2b2d06addd29ef76d79cf99db08
+4befdb2bb6e3530ee6b48ab3b5eafdc5f36ca5f2f9d2b25ab9ada56d845c7769
+593e4ee56be5eb578afdba17f6e9ae98e07d868fa43724539c434cc0e8538ccf
+dffffe7737d48da2df5a1797738fc3da65e18c75b72c4b7bb7578ad7e7deb7b4
+8d2dcbf68aedf8948339111f57defb5ac5f51a67ecebcae39f12fb772fecd7dd
+f1c17b0c1f496f48a63807c565bf627c7ef8e10793e48d5ae6666c6b6a7bf97a
+bd6ccbf33defcd565a7a3eb57eca65f5f24fcf53be3eb58d90af6f5936b7fe16
+b90d1351e6447c5c75ef3b1acf9f64bc673bc3d9e7f049ecdfbdb05f77c707ef
+317c24bd2199e22b632e0afd8ab1f9e9a79f7cbd6fa3e837bf34395fafd78e38
+2e9f72b0c4bdef59dc0bfb26976865f8487a4b32c579c46f03e94f8c8d09f276
+d16f8acbf3f57a0d8ce3f229079fb8f73d877b61df7abd17f03c8acb9724534c
+be5c18fa13636282bc8f981e5b8cbd4f39f8c475e219dc0bfb278f6865f8487a
+4b32c5e4cb4db62f31163ffef8e31fbfa93541de26bff2e6538931c5d8fb9483
+4fdcfbfae75ef80c72885614972f4aa6b860c785db05e27e6ea66d98348e29c6
+dca71cace5ded72ff7c2e7903fb4327c24bd2d99dc64efe766da4ef49d02732c
+f2873ddcfbfa23979f45eed0caf091f4c6642a6fb22e16d7c9fe8e4f5cdc4cdb
+31691c478cb1c9287bb9f7f5432e3f8f9ca195e123e9adc99437d9f85a990bc6
+f9f2461a7f8024fadccdb4ad72d2c83b650e998c72847bdfbda2cfa3f925ebf3
+c8175a193e92de9c4c71418faf14c65f5bcc0b3eed45bfe6a438fa3afadccd74
+bfb958cd49a3387e9f32874c4639cabdef1e99c77ec9fa4cf28456868fa41192
+2927e5f99b5c179036b22ffd86f61cd9bfd942c672f91acf95e3288738837bdf
+35ea3cf64bd667921fb4327c248d924c7191cfdfe4bad11e937d173752bfa1bd
+4ef67b3413c667cb7193439ccdbdef3cf2f85de405ad0c1f49a325d3dc8dd645
+6559d94fe58dd46f68ef518e47dde8578e911ce26a4bf7be687c56f7993c7e17
+79402bc347d29b93a9bc09d4adbed1c65759ea754656f745de44a39fdc48fb91
+719ce354c631fdc8313119e56e53f73ef7bf69759f94f741f7c2f711f7b4327c
+248d9a4ce50d63aa8d38492fcf7fee261a5ff97123bd5f3956d9625c627c72d2
+98af739f1c034525bdc92233ae19e57523aff9a35e3ff2bccbbc9dba0fba17be
+cf88f1ce39868f24c9f4a7bca1d437db7cbd6c6f509f5379237513ed4b3d56a5
+fa794e1aa7e29773957d1d4d51c953cc159b754c477b93fadcdc07c7f5b6d8e6
+3ec3479264faf3e6928f533d49cfdf5e46cbf794efed597dbcd1967e2beb267a
+af7aace62c2d9b8adf35db649bb24fe7724a3ef1345bee7f65ebcdd43196cd7d
+9014f1002d0c1f49232753de5cd25c5fe44d367f7b19adbee1e6b696da59a6f6
+55b7fa065adf44dd48ef558fd7276bd70b65fc9671bb657f7cabec3b9f74f066
+6bee7f652b7323dad5eafd679b3ad66872961471022d0c1f49232653de6c4a5b
+fba1bee12edd6cb3e57e5bb7a9c2b16ef50dd44df45ef5186eb175fd5219b765
+ccd6c773641f6f33d5377305a59c6204f5fdaf6cf5bd702a7fce6cf5fd706a9d
+f278e52c2962035a183e92464aa6bcb1d45af4c1d2cd36db9a02744f9b2a1ceb
+e6067aaf8cbdb9185cab45aca63266a762b33ee696fbeed5d4397ffad45f6ec1
+9fea7be1defb5ee4ded4eb9f5a7d3f8cedc431c5cf94b99d0d8258a095e12369
+8464fa7403b9aa0fea9b6eab6672db9f8cb94fb1b7c599713a159b6b0bcebaf5
+6aea58ebf6a990cc26e7609d3df7bd3227a7962fb5a9dc8ced943f6be5fe1897
+f1a795e123e9cdc9b4e666e162420b196b6b626e8f3be2746dc159b7ba2fb25d
+656adfd1cac2b17cbd3c768524dcafcccf16caed7cda66cbfdf22cc69d56868f
+a43726d3da9b830b097b658cad8db5237a8ad3359f42cc15a0759f9dd5a63e7d
+8c56168eb96ef9389b4212ee133938f5f3887a1b2db6c9fb880b5a193e92de94
+4c712e6bcfc74584ad32bec4ceb2b90274cda79e2ddad4a78fd1ca4f20730ca7
+c6b21ce7a9e5c07932e7ea9f474c6d436e531313b4327c24bd2199e21cb69e87
+8b089f645ced892fbeb7e653cf166dedd758734c3f8dad18806bcce5588bdc9b
+da869ca6241e6865f8487a7232c5b1ef397e1710a6643ced8d2b9ea51c63e30d
+f79bcbc316f939b50d794f493cd0caf091f4c4648a637611e0a88c23f134a67a
+ccc501dce753ee1dcdcdb9f7cb799258a095e123e949c914c72af9d92be3471c
+11e662406cc0b5d6e6dc91dc5c7aaf9c2788035a193e929e904c718c929ead32
+6ec40f73e6e242bcc075a6f26ded6b5b2cbd5fce23066865f848ea3999e2d824
+3b6b65bc881bd65a8a133104e79bcbb3adafaff1e9bd727e6cc69f56868fa41e
+93298e4992f349c6897861af4f7123aee05c7339b6f5f535d6bc57ce8fcbd8d3
+caf091d45332c5b1486ee6647c88135a591347620dceb1945b7b97b520e7c764
+dc6965f848ea25992435732236c4076759135be20fae7577cec9f9f118735a19
+3e927a482609cd94880bb1c1d9d6c6985884ebf4906f727e2cc69b56868fa43b
+9329f62d9949190fe2822b6d893571096391f3e330d6b4327c24dd914cb14f49
+4cc68178e049c42a8c45ce8fc138d3caf091746532c5be24efb872fcc5014f27
+7e612c72fefd8c31ad0c1f49572453ec43d28e27c7ddf8f346621ac622e7dfcd
+f8d2caf091746632c5b625eb3872bc8d3ba310e7708e5e734bcebf97b1a595e1
+23e98c648a6d4ad2f7cb7136de8c4cec437b3de7959c7f27e34a2bc34752cb64
+8a6d49cef7caf135cef02df9006df59e5372fe7d8c29ad0c1f492d9229b62129
+df27c7d5f8c2677204dae93d9fe4fbfb18535a193e928e2453bc5732be478ea7
+71857de40db4f1845c92efef623c6965f848da934cf11e49f87c398ec613da91
+4b70dc53f248bebf87b1a495e123694b32c5ba92efb972fc8c239c4b7ec138e4
+fb3b18475a193e92d62693a47b9e18b3b201d79173300ef9fe7cc69056868fa4
+4fc914cb25dc33e4581933e8833c8471c8f767337eb4327c24cd2553bc2ed1fa
+966364aca05f7213c621df9fcbd8d1caf0915427533c97607dcab13146f02c72
+16b67972bec8f567326eb4327c246532c54f89d5971c136303ef208f619da7e7
+8a5c7f1e63462bc34752249384ea438e853181f792dbf0d91bf244ae3f8bf1a2
+9561232992281bf728c7c038c038e43b2c7b4b8ec8f5e73056b4325c2445f294
+092499ae937d5f8f01301ed70098f7a6fc90ebcf609c686598488aa4994a1cc9
+749eecf3b9be07c6e6ba00d3de961b72bd7fc688565e1f49912c4b092399dac9
+befed4e700c9b502c620d7fb667c68e5b591b4b6c0914cfb651fafed6b8029ae
+1f3006b9de2f63432baf8ba4ad858e645a2ffb766b1f037ce29a026390eb7d32
+2eb4f2aa48da931892695ef44dd900cee43a03ef27cffb645c68e55591b42731
+24d39fa22fca067035d71e787f1ec8f3fe18135a795524ed498c919329cebd6c
+003d703d627423e4803cef8bf1a0955745d29ec4182999e25ccb06d02bd72846
+364afccbf37e180b5a794d24ed4d8a3727539c5bd9009ec4758b39476363effb
+af8ac991625f9ef7c138d0ca6b22a9f71bc515e25cca06f074ae659c616f5c5d
+158fa3c5bd3cbf9f31a095d74452ef378a33c4b1970de08d5cdfc6b134d6e5b2
+a9c7f173eafd53af97cf979685f2fd73cba65e9fb3b42cad59e76d463ce79ee8
+7f5a794d24ed4d8a2726531cb38b003012d7bcf7ca7bdad418cf2d2b9fd7cb8f
+3c0e4bebad7d5fc8f5ebd7c3d2b291e98ffbe87b5a794d24ed4d8a2725531cab
+e487e7c9dcbdaafdfbdffffeef7ffef39fdff7fe1e716ebccbd298ae5d56afb7
+b42ced7dffda65b5bdcb46a43feea1df69e53591b437299e944c121f9e2172b5
+6cfffad7bf2e6df5fedf546cc6f9f02e65acd6e69695cfb72c4b7bdf5f2fab5b
+69eef5b0b48ceffb9df3e9735a794d24ed4d8aa72493a4877e443e2eb52cf27a
+f0cb2fbf4c1e63b627169e71dcbcd3d2d896cbe61e87a56569effb979695f62e
+e34ffae95afa9b565e13497b93e229c924e9e13e917f652b3f257cb2b9c2f309
+05671c27e32ac7bf8e85b9656b1fef5916eae747b4dcd693e987ebe86b5a794d
+24ed4d8aa72493a4876b45ce657b4321b9565970f65e64c63132a672eceb3898
+7abe659d3dcbead78f6abdbd27d317d7d0cfb4f29a48da9b144f4826090fe78b
+3c2bdb28c5e492ba4f7a2c36e3b8e06dc4f5b7f4c7f9f431adbc22928e24c413
+9249c2437b9157651be9d3c9bdea3eeba5d88c63813711d3dfd327e7d2bfb4f2
+8a483a92104f4826090fed443e45cb625241b94f6f5f9f759de44dc4f334fd72
+1e7d4b2baf88a42309d16b32c571c5644db2431b914bd114956df55464e671c0
+d389e369fae53cfa96565e11494712a2d7648a099ae212da883c8ac24751799e
+de8a4ce09de4f739f42badbc22928e2444afc99485e59d133478bac8a1680aca
+6b659f2b308133c8eff6f429adbc22928e2444cfc924d161bfc89ffcb492eb45
+ffe718dc5564ba86c27bc9efb6f427adbc22928e2444cfc924d1619fc81d85e5
+fd7efef9e73fc6428109b426bfdbd197b4f28a483a9210bd269324877d2277a2
+98b95299af4bb9bb36afdf96ff713e777e4df66dfdc9fb89d9f5f4551bfa9156
+5e11494712a2d76492e4b05de4cdd58565589bafadd77b9238270526ac235eb7
+d15fc7e9435a7945241d49885e934992c33691332d0acb3af7cae7f1385ba95e
+a754ae3fb7ac7c7ded6bb57ad9d4f3b96dcc2dcbe753efd923b6a3c084cfc4ea
+76faec18fd472b8f8fa4a3c9d06332bd29c1e35cae6c77fedb2eee9363df426c
+ab94cfe75e0f6b1fcf2d0b4bef2bd5cfd3daed852dcbeae547c5f61498b04c9c
+eea3dff6d377b4f2f8483a9a0c3d26d393133c8ebd6c3189bcb2d5fb576c8e21
+63ad95d85ef9734ab96ccde370747b616e1b4bebcdbd27ec7ddf5eb1cdf83f31
+eff8fa723ae3bca02531ba9fbedb47bfd1cae323e96832f4984c3d27781cdb52
+cb22af07e57fea3ed5149eef11e3d9526eafde6ec64eb6b4e671987a5eb6543f
+aedb94faf5a9e753ef2f5faf97978f5b896dc65f91bdfb3a71c6b9412be2f318
+fdb79d3ea395c747d2d164e82d997a3c9eb265f1d84b01b9d75ce1a9e07ca618
+bb96727be576eb7dcc2ddbf39eb0761b7396b6575bbbfdb5fbde2ab6fbebafbf
+de9e6b679d1f703ff9bd8dfea295c747d2d164e82d997a389e38866c6f2824d7
+2a0b4e45e673649cb616db2d95cf334ed2dac77b9795eae7a97ecfda6d6c59d6
+4a6cf7eeafc6a6b3ce11b89ffc5e4f5fd1cae323e96832f4964c771c4fecb36c
+a314934bea3e516cf62bc6e70c53dbcd78c8c769ee71987b4f985b56be1ef279
+f9da94729d7add5c56bf1ee6964daddb426cb787afc6a6b3ce13b89ffc5e473f
+d1cae323e96832f4944c571d4beca76c237d3ab957dd678acd7ec478c4572c79
+8e18b39e8acb10c704bc93fcfe4c1fd1cae323e96832f4944c671f4b6c3f5a16
+930aca7d7c7db62f310667e70eedc458fdf0c30fdd7c2db694790d771387ede9
+d365fa87561e1f494793a197643af33862dbd114956d2932fb10fd7e66fed056
+8cd54f3ffdd4c51ff499239eb89b186c4f9f2ed33fb4f2f8483a9a0cbd24d359
+c711db8dc24751791e45e6fda2ef631ce85f8c556f5f899d12c70977117fe7d0
+aff3f40dad3c3a925a24422fc9d4fa38627bd11494d7ca3e57605ecb57639f21
+c6a8d7afc44e1153dc45ec9d47df4ed32fb4f2e8486a91083d2453eb6388ede5
+a7955c2ffa3fc74091798de8670566df626c7efcf1c73f3eb57c4a6e8829ee20
+eecea57fbfa74f68e5d191d422117a48a696c710db5258de2f26d039160acc6b
+443f47dcf790d37c2bc6e489856512535c4dcc9d4f1f7f4b7fd0caa323a94522
+f4904cad8e21b613c5cc516b8fa7f57a6f14e7fec4c9f4532930fb1363f1e4c2
+328929781f79fd277d412b8f8ea41689707732b53a87682d0acbb0f6985aaff7
+5671fe0acceb9405e6e8b177a7ecff371496493cc1fbc8ebaff403ad3c3a925a
+24c2ddc97474fff1fe98b01d2d2c633b792cf531e5b2a9d74b53ebad7d6d4ab9
+4eb9eedc6bd94a4bcff3f1d4fb42be3eb56cabd88602f33a5960e65ff2e53a99
+33fff8c73fbefcf19eb71496493cc1fbc86b7d403b8f8ea41689706732b53afe
+1685658ac7f5f3d2dcb216eb95eaf77c7a5edab26c6edda5f7ed15db50605e27
+7fe912ff9f62f47d8b31e4b3e8e7f8b432fe2fcb28eedf18f36209de67f4bc76
+5da3954747528b44b833995a1d7f4cde8ea88fa37cbe76598bf54a6bb717f6ae
+bb65590bb1cda7fc170c6f527f8a79c6d8f235bea3e5a79551d447acbff59729
+e2883389af7b8cdcef628e561e1d492d12e1ae646ab5df33faa07c1e8feb96ea
+c7754bf5e3ba4da95f2f9f2f2d0b6bd75db39d6c2dc476f22b825cabfc145391
+d956f66514956ffeb4728a18e22c62eb3ea3f6bd98a3954747528b44b82b995a
+edf78c3e289f2f6dbff57aa57abda56dec5df7d3764a4bcbb688ed448133c2c4
+bb47734566363eabfbac2c2adffe69e51471c319c4d5bd46ec7f31472b8f8da4
+5649705732b5d86f6ca3c5a760e5b1c4e3fa79696e598bf54af57bb66c636edd
+78fce9792a1f87faf95eb19d9884fb6aecbdea22333e518e16e35336fecc936c
+594c669f8d5a5496c40aad89a9fb8d3606628e561e1b49ad92e08e64eaf1d863
+5bb9bd7abbb96ceaf5d2d27ae56b73ebd5ca75ca75a7de97eb2e2dcbc7a97cad
+7c3de5eb53cbf68a6df96a6c3fb2c88cf18836576c8e26cf3bda5c31997d3672
+51591a314e388f78eac348e320e668e5b191d42a09ee48a696c71e93bc119c31
+4e778dbde2b25f73c5668c5bdddea43eb7b2a0544caef7b6b8e03e62a90f238d
+8398a395c74652ab24b823995aed3326796fbd18c47995ed0c57f75dec2f26ed
+31598fb1a37f596cd69f68462be3b36ebd993ac6b22d7d3aa998dc26fa13788f
+5172dab58b561e1b49ad92e0ea646ab9bf98f0b9183c478c554ce063d26eb2fe
+2c5964e6a777d1a60ace6c31d665bb5abdffba78ac9b4f27dbca7e07de61847c
+76cda295c74652ab24b83a995aef2fb6171343fa17631513f998bcf37c530567
+b6baf08cb1bfb27dfa779275534c9e23c6027887b7e7b3eb15ad3c36925a25c1
+95c974c6be6252e882d0bf18235f891d475d782e7dcab9d4226ea65effd4ea62
+52f1781fd767788f37e7b36b15ad3c36925a25c195c974c6be7212eba2d0af18
+9b1f7ffcf1cba43f26fa26f9e3a98bcd352de226dbd4f2a5a698ec8beb335b89
+997ebd756cc41cad3c32925a26c095c974d6be621219134a1786fec498282cd9
+2362271bcf671cd942bcf4ed8de323e668e59191d43201ae4aa6b3f7a3c0ec4f
+8c85c2923d328feb9f3c9b71642db1d2bfb78d9198a395474652cb04b82a99ae
+d84f5960ba48dc2bfa5f61c95e99bff54f9ecf58b286387986378d9398a39547
+4652cb04b82a99aeda4f1698f1073d5c28ae177d1e2dfe788fc2923de6f2563e
+bf87b1e41331f21c6f192b31472b8f8ca496097045325d9db051ccc41ff488bf
+1619fb76c1b846f4737c5a19ff054414f70a4bf698cb5779fc2ec6736c31fe47
+9a3fdad58f188f3778cb7970bf474652cb04b82299ee4ad8fa534c178e7364df
+e6a79551d4bbf1b3c7a71c95c3ef623c9f29aff9475adc9b8fb4a96d6e6dee53
+ed447f3edd1bce813e3c32925a26c015c97467c2c68d233fc55464b6957d99ff
+61bd4f2b39626d5ecadf77319ef7cb6bf9da56177a4f12f7a9fc3f70a7ce6da9
+294697451f3dd9d38f9f7e3c32925a26c0d9c9d44bb2ce1599d9f8aceeb3b2a8
+f46925474de5e1dad77836637a8de8e7a956178bd9465616a1d9a6fa2e9a7bdf
+9fa23f9eeac9c74e5f1e1749ad83ffec64ea2d59eb2233bec6192d8eb36c7c1d
+bbb26531997da6a8a495b99cdbfa3acf654cdb8b3e2d5b5928958df5d6149da3
+df13a30f9ee8a9c74d7f1e1749ad83ffec64ea3559b3c8cc9bc35cb1399a3cef
+6873c564f699a29256e6726debeb3c9b716d23fa315a5eabb3719ef2fe98fd3f
+f23df289b9fcc463a64f8f8ba4d6c17f66323d2951e78acd3887babd497d6e65
+41a998e40a4b39b57719cf655cb78b3e2b5b5cafb95f3d2ea3dd43e39c9fe469
+c74bbf1e1749ad83ffcc647a72a266b1597fa2192dce6baef566ea18cbb6f4e9
+a46292bb458c329ebc3e312dfb279b62f219ea711be11e1be7f9144f3a56faf6
+b8486a1dfc6725d35b92348bccfcf42eda54c1992dcebb6c57abf75f178f75f3
+e9243dbb2387e887f1ffaabca6478b6b35cf578feb5befbf716e4ff094e3a47f
+8f8ba4d6c17f5632bd3949a70ace6c51a8c5b9478be22d1f5fd53efd3bc9ba29
+26819ec5756d44e5753dafd7bc57dcabcb317fdbbd39cea9774f38469ee17191
+d43af8cf4aa6119334ceb96c311958fa94f38ce69348e06d46b99fd4f70f05e5
+98de5868c679f4ee09c7c8333c2e925a07ff19c9345282c6b966cbe7e5cfa54f
+39cf688a49e08df29afa46790f29afe590bf2ccef878fafdbdf71ceefdf8788e
+4745d21981ff946df624ce2f5b2d5f7b7b1f005ced6dd7d5bc8fe42f20614e7e
+9aa9c03ccfdbae2fdce751917446e03f659b3d88f35a3ab75cf6d6f387abc925
+6a6f88893887688a4ab62a63e7a94566af39dceb71f13c8f8aa43302bff536df
+989c714e9fceab5cfec63e803bc825a63c352ee2b8a3292a39aa8ca52716993d
+e6708fc7c4333d2a92ce08fcd6db1c3139eb7376818236e412739e141b71acd1
+1495b456c6d6d38accde72b8b7e3e1b91e154967047eeb6d8e989cf539bb4041
+1b7289254f898f384e85256789bf149f31a6c0dccffd86561e154967047eeb6d
+8e969c53e7eb02c59ca3b1b1f7fd4f8d49b9c427bdc7481c5f4cfae16c116bf1
+0b0c05e63eee37b4f2a8483a23f05b6e73b4c49c3b5f1728ceb237b69e1a9372
+89357a8d93382e8525578a985360eee37e432b8f8aa43302bfe536474bcca9f3
+75711ad3d2b897cba61ec7cfa9f74fbd5e3e5f5a16caf7cf2d9b7a7dced232b8
+5b6ff119c7d35b6179671fb97e7cebccfe886d2b30b713a3b4f2a8483a23f05b
+6d73b4a49c3b5f17a771c45867abcd2d2b9fd7cb8f3c0e4bebad7d5fc8f5ebd7
+c3d232b85b2f7119c7d1e3279677f68f6bc6b7ceee8fd8be02731b314a2b8f8a
+a43302bfd536474acaa57375711ac3de182897d5eb2d2d4b7bdfbf76596def32
+b8cbdd7119fb3f5a58e63994e7128fb3d5d62ccbc753ead7a79e67abcd2dcbe7
+f5cf90eb97af4d29d729d79d7b2d5b69e9793e9e7a5fe9d37af9fada656b5f3b
+2ab6a5c05cefaefdf23e8f89a4b382bed5764749ca4fe7e9e2348e18eb6cb5b9
+65e5f32dcbd2def7d7cbea569a7b3d2c2d835edc159fb1df169f58d639569fcf
+9e65f1b85e37addd46d8b2ac5e1e96de535adad6d4f3d296654beba6a5f5eaf7
+ec59b6b4de51b12d05e63a77ec93777a4c249d15f42db63b4a42baf030672936
+ca65738fc3d2b2b4f7fd4bcb4a7b979de58e7df20e77c56b4ce48faa8ffdd3f3
+52b96cedfb96d69b7b4fd8f3bea5ed95b66c7befba9fb693f66e636e7b61ed7a
+47c5b67ff9e59747fe61a933fb65cad5fbe3bd1e134967057d8bed8e92902e3c
+1c55c6501d4f73cbd63edeb32cd4cf7bd2f3b1d1bf3af6cfd66a5ff576f23cca
+569a5b36b5de944febc5f36ca5f2f57a79f9b836b57ead5e563e5f5a16d6aefb
+693be9c836e279b6d2daf58e8aedc5ff83d9e2971e576bdd179f5cbd3fdeeb31
+917456d0b7d8ee0809e9a2430b651cd53135f57ccb3a7b96d5aff7a6f7e3e319
+ae88a3d847ab097c7dbc4bc7bfb4eedaedac5d2f2c6dbfb4b4ac34b75efdfad2
+7ef7aefb693ba9c536c2d2fb4a4bcbf688edfdfaebaf8ffb6a6c68dd174baedc
+17eff698483a2be88f6e77846474c1817bc83d5a393b9662fb571597e5f3faf1
+da65a5a5f5eaf7ec5d9696de53aab7553f2f2d3daf1f7f7a3e6569bdfa3d7b96
+2dadd7426cefa95f8d0dadfb63ce55fbe1fd1e13496705fdd1edbe3d195d6ce0
+3ef28f96ce8ca796db9eda56bc96ad56be5e2f5f5a565a5a2f97d5af87b96553
+eba6b9f7d4ca75ca75a7de97eb2e2dcbc7a97cad7cbdf669bd7c7dcbb2fab5b9
+f55a886d3ef5abb1e98c7ea95db10fc6f098483a2be88f6cf7ed89e84203f792
+83b476e6bd34be7ac839ce18b7b5db7cfa75288effe9c565387b1c9e3ecef4e3
+31917456d01fd9eedb13d18506e07dceb8b6c7361597ed447f96ed0c6bb77bd6
+feaf10c7fec30f3f3cfa6bb1a533c7e2c9e34c5f1e13496705fd91edbe39115d
+6400deabf5353e26eeee1bf42662f2a79f7e7aec1ff49972569ec95f5a794c24
+f5964c6f4e42171880f76b79ad8f897b6c2f3e21825e444cbee12bb1b533e669
+e67eb4f288483a33e0f76efbad49e8e202308e96d77c9f5ed29388c5377d25b6
+d63ad7e42ead3c2292ce0cf83ddb7e6b02bab0405fe42457681567f1e9a50293
+1e440cfef8e38f7f7c6af996afc4d65ae69abca5954744d29901bf67db6f4c40
+1715e88fbce42aad622d26f1319917bbdc25626f84c232b5ca35394b2b8f88a4
+33037ecfb6df98802e2ad01f79c9955ac59b0293bb44cc8d5458a616b9265f69
+e511917466c06fddf61b93cf0505fa2437b95aab98536072b588b5110bcb7434
+d7e42aad3c2292ce0cf8addb7e5bf2b99840bfe427776815770a4cae12313672
+61998ee49a3ca5954744d29901bf65db6f4b3c1712e89b1ce52ead62af2c30c5
+33ad655cc55f851dbdb04c7bf34c7ed2ca2322e9cc80dfb2ed37259e8b08004b
+e23ed1e25e910566fc9710adb6c9d8328ea2a8fce9a79fbec496c2f24f7b724c
+5ed2ca2322e9cc80dfb2ed37259e8b08006bb4b85fc4a43ffe9b925f7ffd5591
+c96e19376551193115b1a5b0fcd39edc928fb4f288483a33e0d76efb4d49e702
+02c016adee1b534526ac11b112ffae5251b9ced6dc928bb4d27d249d1dec6bb7
+ff96a473f100608f96f78fb2c88cedba373127e323ff5da5a272bd2d79250769
+a5fb483a3bd8d76eff0d49e7c201cf2267e94deb988c02a1fef798e29e3216fc
+bbca63d6e693bca395ee23e9ec605fb3fd37249c8b063c8fbca547ade3b2fc14
+330a88f8742af6918d3194639e0565c482afc01eb7268fe41aad741f496707fb
+2809e7a201cf236fe9d519b19945667c3a35576866e3d9a6c674aaa08c585054
+b6117dbce4d37258abfb483a3bd8474836170c7826b94bcfce8ccfb942335a14
+20b1efbad19fa9718a16ca625241798decfb294bcb608bee23e9ec60ffb4fda7
+279b8b053c97fca57757c4685968ce159b218e251bf7991b87a5625241799db9
+fc9037b4d275245d11e89ff6f1e46473a1803e442e5ed94cd2b852c4dc95d614
+9b571f137fcabe2f8bc9bc364d35ae37d5efc68256ba8ea42b02fdd33e9e9a6c
+2e12709fc8bfb2e524f8aa56ef5fb1c9d922ceee32576cd679c039ea7e9e6a31
+2eae437d897129d5cf61afae23e98a405fdac75313cd0502ce1539b6d47292db
+83a94976d94cf86825e2a907596cd69f68d6b19f8dcfa6fa2ddbdc2794ae2dfd
+8b714ae56338a2eb48ba22d097f6f1d444738180b622a7ca96c5632f05e45e73
+85a749217b45fcf4228bccccd5bad8fc5474ceb5b7983ab7b956ff7bc9b2459f
+e6bf9d8c75f3fa91efa56f3946c68a56ba8ea42b027d6e1f4f4d321707682372
+29db1b0ac9b5ca825391c91e113b3daa8bcd6c7345e75ccbfc38d25a98daee96
+b65430d6ad2c20eb565f2762dba5dc1ffd3246b4d475245d11e873fb786292b9
+30c07e913f658b49d3e8ea3e516cb256c4cb53cc159d736d6b313ad5eadcdad3
+b61487536da960acdbd6dc8fe3abe571d32763432bdd46d255413eb79fa72599
+8b026c133953b69c4431afee33c5264b2246de686b313ad55a14a85b8ac3a976
+66fe2e8d7d5e3fe88b71a1956ea3e8aa009fdacf1393cb0501d6895c89564eb2
+d82e26b6d9978a4ce6b8374d6b51a0f69e779fc63eaf1ff421c7c2987054b711
+7455704fede76989e542009f459e442b27671ca7c8e413f7a831ad1df7bc7e70
+af1c0363c151dd46d055c13db59f2725968b007c1679527e4a407b8a4c96b857
+8d69cbb8e7f5837b947d6f1c38a2dbe8b92ab0ebfd3c29a1243f2c8b1c89a6a0
+bc56f6b90293927bd698b68e7b5eb7b956dde7c680bdba8d9cab82faa9c924e9
+6159e4487e5ac9f5a2ff730c149924f7aef1ec1df3bc86708da9bed6ffecd16d
+d45c15d0e57e9e9444121ee6457e282cef177fd132c74281498a98700f1bcb91
+f1162fd798eb637dcf56dd46cc55c15ceee7290924d1615ee4471433bd6991b7
+4fcdfd386e5f93a5e65ec616112f62e63c4b7dabdfd9a2db68b92a90cbfd3c21
+792438cc8bfce8b1b00ca3e76e9cbf02939a7b1a5b45cc889bf63ef5a93e67ad
+6e23e5aa20cefd3c21692436cc8bfce8b5b00c75fec6f36cb5f2f572f9d4e372
+dddec5712a30a93d257ee9cb93ae7d4fb0a62ff5376b74192557066feeeb0909
+23a9615ae446cf856528f3b7cee5b965f178cfb29ec5712a30a93d257ee94f7d
+2d649fb57da8aff9a4cb08b932709f725192cc302ff2a3f73fde53e6709dcf7b
+962dadd7b338cef83f317bff6500d77b4a0cd3a7881f31b4df96bed3cf2ce932
+3aae0cda275c8c24312c7b428e94c7581fef9e654bebf52c8e33fe8a6cefbf0c
+e01e4f8963fa1531248eb6dbda67fa98395d46c69501dbfb4548f2c2674fc893
+f218ebe3ddb36c69bddec5b1fefaebafbe1acba427c532fd8a38124bebede92b
+fdcb942ea3e2ca60ed3d31242e2c8b1c79c2a760652ed7793db72c1e2f2d2bd5
+cf7b16c7eaabb12c79523cd3b78825f1f4d9de3ed2b7d4ba8c882b03b5e7a490
+b0f0d953f2a43ece789ead56be5e2e9f7b1ceae73d8b63f5d5583e79524cd3bf
+88273135ef48dfe8574a5d46c35541daf38546a2c23a912bf115cbb77ae3b520
+cee95371e91a481007b4163125aebe77b44ff429a9cb48b82a407bbdc0485058
+2fbe5af9a69cc9eb52b6b78973fae1871f66bf16fbd6f3663ff1c0195c6bbed5
+a22ff427a1cb28b82a387bbcb0484cd826fe288cbc798e18ab9f7efae9bb3fe8
+d3e3f5987e647c88115a13575fb5e803fd48e8320aae08cedc476f89203161bb
+c89bf8248cfec558955f898de7ae7b6c913123766869f4786a75ee7292ee22e0
+aaa0ccfdf494041212f679db5763df2ac628bf121b8f8d192d642c950df61a35
+865a9eb31c1c5b77a37f5540e67e7a49008908fbc5d72b15987d8bb1f9f1c71f
+bffc8ce6ffb8e44c1967d960abd162a7f5b9cabb717537f2570463b98f1e825f
+02c27151acc4572de5537f624cea0657127fec354acc9c718e726d4cdd8dfa15
+8158eea387c0977cd08602b33f3116f18965fc3bcb789c9f58c6e3a506671273
+6cf5f63839ebdce4d678ba1bf1b383b0defedd412fe9609fc89da9fc290b4cf9
+759fecff2c2c634c626cd68e4bae37d7a03531c61a6f8d8f33cf493e8da5bbd1
+3e3b00ebeddf19f0920d8e8b3c2a5bc80233ff700cd7c971f8c73ffef1e58ff7
+948565e9e8b8e47eb2416be28b256f8b8db3cf451e8da3bb91be3ab8ef0a7649
+06e788dcca167fe427fe3fc57ccef9a29fe3d3caf8bf2ca3b89f2a2c53cb31c9
+31ce062d892de6bc252eae3807f93386ee46f9ecc0abb77f47a04b2eb846e4da
+54a3bdecdbfcb4328afa28eee70acb74d678e4f14c3538423c31e5e9f170d5b1
+cb99f7eb6e84cf0cbaa96d5f1de4920aae17054efe572565e3b8eccb282ad77c
+5a39e5eaf1c8fd4d35d84a0c517a6a1c5c79ccf2e4ddba1bdd33036e6adb5707
+b884826b45ce952dbf2a5bfe47fed9f8aceeb3b2a85cfb69e59c1ec6a03ebf6c
+b096f8213c6decaf3e5679f15edd8dec99c136b5ed2b835b22c1f922cfca96ca
+c7f949661699f135cefcaf32a6de3bb2ba4fb298cc3e6b5154967aedf7ba1fca
+069f8899713d65ccef3846b9f04edd8dea598136b7ddab025b02c17922bfb24d
+997b3d8bccf81a67b4b962733479ded1e68ac9ecb35645e59395fd553798224e
+c6d3fb58df756ce2ff7dba1ad133036c6edb5704b5c481f622afb22dd9927f73
+c566b9af6c6f529f5b59502a268fa9fbb66c90c4c6387a1de33b8f49ccbf4b57
+a3796670cd6dfb8a809634705ce451d9d6389a7b596cd69f6846ab8fa76cbd99
+3ac6b22d7d3aa9983ccfd45864636c62e2fd7a1bd7bb8f458cbf475723795660
+2d6df7ec60962cb05fe44fb6ad5ae65efd8966b4a982335b79dc2d8f63ad7aff
+75f158379f4ef6a71ec36c8c4b2cbc532fe379f73188e9f7e86a24cf0aaca5ed
+9e19cc1205b68bbcc9b6d715b937557066ab0bcff29cae689ffe9d64dd1493cf
+3135ded9188bf17f97bbc7b1871812c7efd0d5289e11549fb67956204b10582f
+f225db513de45e5d782e7dca7946f349e498ca3caa1bef67dcdfe1aeb1eb255e
+c4edf37535826704d4a76ddeb14f185de448d95ae935f7963ee53ca32926a9d5
+395736decb583fd7d563d6537c88d567eb6af4ce08a64fdbbc639f30a2c88b6c
+679077b04f999b75e35d8ceff35c3556bdc583f87caeae46ae7520add9de1dfb
+8451443e64039ea7cce1b2f10ec6f539ce1ea31ec75f4c3e5357a3d63a88d66c
+afe53e25017ccd836cc03b95795e379ecb78f6efac71e975acc5e0f3743562ad
+0368cdf65aed53f033aa88fdb20163abaf0965e3798c619f5a8f49cf632bee9e
+a59bd16a1d386bb7374252426b11efd900d62aaf1d75e3198c5b7f5a8c45ef63
+29d69ea39b916a1d346bb7d762bf029e11449c670368adbcc6d48d7e19af7e1c
+e9ff278c9bd87a866e46a975c0acddded1fd0a74de2a62bb6c0077a9af47d9e8
+9371bad79e7e7fca3889a7fe7533422d8365cbb68eec5780f33611d3d9007a57
+5eb3ea463f8ccd3db6f4f793c6450cf5ad9bd16919285bb67564bf829b378838
+ce06f016e5b5ad6edccb785c6b4d3f3f6d1cc44dbfba19999641b2655b7bf72b
+a879b288df6c00a329af8175e37ac6e11a4b7dfbc43e17277dea66545a05c8d6
+edecd9af60e6692266cb06c0b4fa7a5936aea3efcf33d5a74fed63b1d19f6e46
+a455706cddced9ebc35d2256b301705c795d2d1be7d3e7ed957df9e43e150f7d
+e966345a04c69e6d6c798fe0a57711a3d900b84679edad1be7d0d7ed3cbdff8c
+7d5fba198d1681b1671b5bde2378e951c4653600fa525ea3eb465bfa77bfa7f7
+9bf1ee471723d12a20f66c67ed7b042dbd88582c1b00cf545fcfcbc671fa74bd
+b27f9eda5fc6b80f5d8c428b60d8bb8d35ef13acdc2d62301b00ef575ef7ebc6
+3efa71de547f3cb19f8cebfdba18811681b0771b9fde2748b94bc45e360048e5
+fda16c6ca30fffb474ee4feb9b91c7b1075df47e8b20d8bb8d4fef13a05c2562
+ad6c00b0457d1f291beb8cda6f6bcef5497d32d2d8f5a68b9e3f1a0047debff4
+5e81c9d922c6b201c059cafb4ddd98374a5f6d39b7a7f4c59bc7ab675df4fad1
+c13ff2feb9f70a48ce14f125c600e841de93dc9b3e7b6b3fed399f27f4c3dbc6
+e9096eeff1a3837ec6fb05226789d8125f00f42cef55ee59cbded44747cea1f7
+3e78c3f83cc9edbd7d74c05bbf5f00d252c453d900e069ea7b59d9f8eae9fdd2
+e2987b3ef7278ec953ddded34706bb55222481470b1147d900e0cdca7b5ed946
+f7b4fe68798cbd9ef313c6e10d6eefe52303dd2248ca6d083af68ad8c90600a3
+2bef8b751b51ef7d70c631f578ae3df6fddbdcdec34706b94580e436041b5b44
+bc940d0058a7be87966d14bd9dfb99fbefe1fc4a3d1dcb1bdddebb7b07b85560
+f416f0f42b6345bc00c039ca7b6dd94670e7395fb1bf3bce6b4e2fc7f146b7f6
+ec91816d1514828b25111fd900807b94f7e3babdd595e779653f5e713e6bf470
+0c6f746baf1e19d4560121b028453c940d00e85b7def2edb9b9c796e77f4d519
+e7b1c59dfb7eb35b7b75efa0b60a86bb839a3e641c8805ce54c6d999eddffffe
+f77ffff39ffffcbe5780b14d5d27a3bd41cb73bab34f5a1cff5e779ef75bddda
+a37b07b44520e43604d59862dcb3c119ca188bf6af7ffdeb9256ef57b109f0bd
+fa5a59b6a73a722e5bd63dcbd6636ea587737f935b7b73cf60b60880721b026a
+0c31ce6583d6ea18ab8bbe2bfdf2cb2ffffdf5d75fbf2b36159a009f95d7cdba
+3dcddae3efe9dc3e1deb197a3affa7bbb527f70ce4d1c1afdf2f98de2bc6361b
+b454c656b63b8ac8ada68e3b9aa213609da96b68b627983be61e8fbf3ec6b3f5
+d8074f746b2fee19c4a3035fbf5f20bd4b8c673668a98cad2c247b2f263fc94f
+38cb73536802ec535e4bcbd6b3271ceb95c7d66b1f3cc9ad3db875008f0ef8d4
+fb05d1b3c5f8950d5acbd87a4b4139a72e341599006de47575aaf5228fa53ebe
+7cbd07571d4f4fe7fc44b7f6ded6c13b32d873ef1540cf1363962d26bf26c09c
+2163eccd05e59c2834e3dc159800e7ca7bcd54bbd2d2feee3cae29571c470fe7
+f954b7f6dcd681db3bd04bef133cfd8b312a5bcac2d2e4979632ce462c2a6bd9
+178a4c80ebe535b86e67d8b2dd2b8e678db3f77fe7b93dd96dbdb675c08e0cf0
+d27b054e9f625cb2cd515cd252c69ba2f27b653e2a3401ee555e93ebb6d7d1f7
+b63886bdcedcef1de7f374b7f5d8d6c1da3bb89fde2768fa1163910dae143117
+4593a27299afcb02f4ad9c4bd56dc9a7e55bd4fb6db9ed2567edebaae37f8bdb
+7a6beb40ed19d835ef1130f789be2f1bdc21622f8a25d68b3e8b425c8109f01c
+e59cab6cb9ec4c53fb3ccb19fb38fb98dfe4b69eda32487b0674ed7b04cbb5a2
+bfb3c1dd220e7b2b2cafcc8d23fb8af72a30019e2faee773ed2c57eca7f5b6cf
+3aceb7b9ad97b60cd09ec15cfb1e8172bee8e36cd08b88c71e3fb1bc324f8eee
+2bdeafc00478beb9fb41bc3ed75aba62db47b53eaeb7baad97b60cd0d6c13c73
+db7c167d5a36e84dc4e5d1c23263bb8cf18cf9f2b5b466593e9e522e9f5a275f
+5fbb6ceab53de2fd0a4c8067db732f28ef23753beacc6d1ed1e238deeeb61e5a
+3b385b07f1ecf59916fd980d7ad7224eeb78afb7b967593caed74df5b2b9c761
+efb23d621bf1877efcbb5580e76a713f28c5f6a6da11adb6d5e2fdccbbad77d6
+0ecc9601dc33d80264bfe8bb6cf01411af2dfe2a6c1df79f9e97ca656bdfb7b4
+de9665a5a5655bc4767efdf5579f5e023c54abfbc127b19fb9b655abf7efb1f7
+7d23b8ad67d60cca9681131ce78bbe2a1bdc696f1cb68add7a3b793c652bcd2d
+9b5a6fcad27a9fb611cfb395eae77bc5767c7a09df2b73ef8a1639e8973cec11
+f173b73a9ecbb6c69ef784adeba73def19c16dbdb26640b606c61e026359f44f
+36e8d1d6f86c15cbf57696b6bbb4eedaedb4d846587adf11b12d9f5e32bac883
+b2c5b724ae6cf5fe159bac15f1d2b33ab6b32dd9b26e58bb5e69ebfa23b8a547
+d60e44ebf5a6088aef459f6483a75813b3b13c26602dd4fb5a7a5e3f5ebbacf4
+e97da5bdcb8e886df9f492b78b385f6a59e4f520f271ea18b3293c29454c3c51
+1dd765abad59272c2d9b52ae9befaddb48f9764b2445277fb2669db076bd3947
+dfff06d1076583275b8ae396f13db5addcf7d2b27c5c5a5a96cae553ebe4eb5b
+96cdadbf476ce7e79f7fee66620d2d648e64cbe2f1e9713e57782a38c715e3ff
+36757c972dcdbd1ea65e9b93eb96d788b2e5f21172ec96485a3350add6f9a4c5
+369e28ce3b1bbcd1547cc7f3f8eae613f59eab717c8a4bde20af1dd172623882
+b2e054648e27c67d2419eb9f5ab9ee9c581639f3e95a9139f6f6fcba25929606
+28b55ae79316db788a38d76c308a32e6e382fed4f8eff9b8e3d87ef8e1075f8b
+e591f21a91cd2f48beef13c5e6fbc538f37dec4fb5523cdf7adf8bf7c475e6ad
+39754b24d50353fbb43cac59678d56dbe9519c5bd9600475dc4f35da8a3efde9
+a79ffc411fba575f0ba28df4e9e45e53fd26d7df25c69465750ee46b5baf1ff1
+9e37ff32f69648ca01997374f9162db7d58b38a7379e17848cefb936a55cf6e4
+4f2f7b93fdea534b7a97b11a319ac5a482729fc8f5f84552f6a922f31d622cd9
+26fa6cef7524defbd65fc8de12499f02786979ebe06fbdbd3bc5b9bce97c185b
+c673ddb6aadf1317f23ddbe17bd98f3eb5a46779ed5054b655169951b4cbff67
+735fdc2eaf2b7bc47bdffa4bd95b22e95300cf2d3f23f0cfd8e695e2f8b3c113
+9431bbd48e5ada8e4f2fdb883ef4a9253d8b182d3fada4bdc8ffbcde2a329fcb
+3d71bbe8b323c5e55bff08de2d91b414c073cbce0afab3b67b9638deb2410fea
+b85c6a57f8b49f98fcc405fdaae379a3e8bb1f7ffcf18f9ba309253dc9eb8d82
+f25ad9e7ae07cfe37eb8dd916b4cbc5771d9d05200cf2d3b2be8cfda6e4b718c
+d9e02a65dc7d6abdd8723c0accfda2cf1496f42ae2333fade47a791df629e6b3
+b8176e177da6b8fcde2d913417c05b5f6fe1cc6d1f11c7950d5a2a636ba93dcd
+9e6356606e177da5b0a457119f0acbfbc5f521c7c235e219dc07b78bf8ded36f
+f19e37ff9392cb23696910a6969d1dec676f7fad388eb2c11675fc2cb5b7397a
+5e6581f9d63e6a21fb266e880a4b7a14f1f984895a2fd7982b8e23f6e15af10c
+bdc4e593445c47bf4591b845bce7cd7f08eff2485a0ade7ad915817ec53ee6c4
+beb341ad8c8f4f6d54adce3d0bccb841e46fdc47eed752f645149571338c3e32
+59a43711a34ff904a0976bcb55c711fbd97bcde8a5af46a0aff7d9fae965acfb
+f63f84777924cd0dc0d4eb5704fa15fb28c5feb231a63206961ad78a894f5ce8
+631214bf4d8c0bffc8e39071581695d12fd1470a4b7a1271da7a9296f15fcae7
+e5ebb95ebd6e985ab6f6b55a2e9b5b2f5f5fbb6ced6badc436b71498671d07f3
+f4f73e3977f814b3b97c846fff5c1e49731d5fbfbe34402d5db19fd84736dea9
+1ce34f8dfee5cd22ff0fb791c62dcf5751c91344ac9e5158a6faf1dcb2b067d9
+d27aa5787dcf36d62e5b5aaf95d8e6a70975ac73c6bef94cbfef17311db19dbf
+949e6a237dfbe7f2488a0e9e52be3eb7ce19ced8576cb36c3c533d8e4b8d779a
+bb61bc4d796e8a4a9e24623672b4a5b91caf5ffff4bc542e9b7b1ce6b6b1b4de
+9665a5b5ebb512fb88ebcadc2f03ae3806e6e9ff63e23e99bf948e38cf7f62f3
+7ffff77f5fda48f7d4cb23692a78cbd7ae0eee56fb8bed64a36fe5582d350873
+378ca9f60453c79d05659c9ba2922789f86d6d6e9bf5eb993f652bcd2dab1fd7
+6d4afd7af97c695988e7d94a6bd76b25b69b5f072c9db94fd633066de49c21e2
+3cfaf49ffffce79736d23df5f2489a0ade7ced8ec03eb2cf786f36ee558ec5a7
+067b94378cb2d02c5b8f71561e53b4b290cc9605659c9ba292273923d7e6b659
+bfbeb4efa575e71e2f59bbbdb0b4cda5f79596961d11db8d6b4d5c63e2f159fb
+613b63d15ef469dc57eb5fa8bcdde59154076ff9fc8ec0deb2cf58b76c9cabee
+efa506572a0bcdb22d7dba79957abf7531591692d914943c51c477c46f6bb1dd
+34f7382c3daf1f2f2d2bd5cfd3de6dac5db6b45e4bb1dd6cf4c598b4177d9af7
+d9915c1a4953819bafdd15d49ff61bcbb3d146d9a74b0d9e66e9d3cda9183fa3
+7d2a261592bc45c4fb59329f4a53fbcbf59696e5e354af9fcfcbd76ab96c6ebd
+7c7dcbb2fab5b9f55a2af7a19dd7f6d8fb3ee6459f2a2e4f3615b84712a185a5
+63baf3b89ea6ecb34f0d46507fba59179b6735c524a388fb49c4fa08de72ef34
+17b846d9cfda33da9beed5976677745e293bf44eb9ff3c96bb8fa73765bf2c35
+60595d6c9ed514938c22627d94fbcf1bce33ce21be5911bf001b69ec9ec2782c
+8bfec93e5a7b3f8ff5f30ffa4c2d2fdb9beedd9746521db8e5405d2df77de731
+dca53ef7a506003d8a8998fbd473c458c557f6e3d3e69c449b6bf463e471c838
+5c6a25c5e5b24b23a91c9ca9c13a5beeb33e8e3728cfed53038037887b5a7c12
+46ff62ace2abfb3191ae999fdc4fff7fef685cc67bb3781cc96991940352b7ac
+cce3f115ca7d4fb9ea38f62a8f7fa901c068624ee11ed8bf18a3f22bb1738ce5
+7df4fd9fa22f5af4476c4371d9400e487666dd72f9991fffe63ea27db2669dd6
+cae3fbd4008069f9f534f7cb7ec5d8fcf8e38f7f7c6af969ee67fe730f7dde3e
+f6625b59ff8ca469244527c645fe5327c66fae72dd1605660643b62db6ae3fa7
+3e86a50600b411f388fce5357d8931d95258968ce7b546eeef38f733ce3fb6a9
+b83c203a70e9ab0e53b2d3f714981908d18ef8f4fe723f4b0d00b88702b33f31
+167b0b4bae376aee9c79deb16dc5e501d9815bc47b3e7dffbe14eb673ba2dcce
+a70600f4af2c30ddbfef15fdafb07c96d172e68aeb446c5f71b95376de1ef1de
+f2cf529772e0b32da9d75d6aa5fa3900f04c5960e63fbfe15a39cf8a3fdea3b0
+7c9651f22563f40ab11fc5e54ed9797bc47bcb4f2f73d0a3d5cf97da5e47decb
+76f5b81d6dadfedd2e00ef10f784b837c42faef35ec1f9a29fe3d3caf8bf2c63
+5ea7b07c96b7e7c91dd782d89fe272a7ecbc3de2bdf1dbad1cf4ba9ded8a7d8c
+a41ebfba6592b56a53fb289be213604c71ed8ffb447e8a198df6b26ff3d3ca28
+eadd7b9fe7adf97167eec77e73be3a9226bd9d9db747bc37bf3a7187bb02ee0d
+a2efea964994ed0e3191889b5becbf3e3e373c8071c4f53e3fc55464b6957d19
+45a54f2b9fef8d7971e739c5be731e3a5a5e282e6f0cbca789be2a5b8c59b627
+28271665537002bcdb5c91998dcfea3e2b8b4a9f563edf9bf22063f44eb1ff98
+1fe7cfc88f5134e9f9e8b03d8318ef898b535c98eeeaf4bb83ef09a28f32399e
+5248ae554e32dc1801dead2e32e397db53ff34873feffdd9b298cc3e5354becb
+1be23e63b507711c6571f9b6f9f3922623101795e8bcb8d06c11ef890b555c9c
+eeba30f51284bd897ec9364a4294e7ec6609f05e5964e6a46faed81c4d791f9c
+2b26b3cfdc27dfe5c9f19e31db8b3896f2da92cf47c99766231117992d031beb
+defda965e82918ef127d50b7488291d5fde1060af05e73c5667d2f88f626f5b9
+9505a562722c4f8ced8cdbdec431957993cfefac77aed46c44f2c2fc69a07379
+5cc0e2e2159d7de7c56ae958df2ec7a2bca1f2bd7282e1c60af07e39a7a93fd1
+8c96f783a576a7a9e3996b4b9f4ec6f9bbe78d23e2e1497a3ede38b6725e5d3f
+7fbba6231317a1e8b8b9dff645cb0b59ac13ebde7de18a631a559c7b16967c96
+71ed860b30862c327362186daae0cc16f39b9cefdc31bf28f7fbf7bffffdbbe2
+b16e653119cdfd6d5c77c4eb5e3d1f6b1c5b994f217ee6eb23e457f3d1c90b71
+79f18d0efdbffffbbf2f2d2f64bd5cc09e924cad8f33b69741cf36235d2000f8
+56ce73720259b6baf08cfbc5956de993c8a9d6cb5c8cfb45fcf42ee3bc67717c
+995f995bf1335f1f61ee7dda089517dfe8d07ffef39f5f5a6f17b2de83b414c7
+7af478731b312eec977de8a60c402ae73ed1ea62f3ec5617938a47d63a3abf3c
+53ce5d9f20e787d14a73afbfd12523d573873e25584b7b8f39de37c26f4cae12
+fd997deae60d40ad2e36cf6eee47ecd5e37c38e7594f11c75ae662299ee7f2b7
+e7a8e2f241415b8ae3de72ecb16e1de87bacdd67ebf57a16e730c2c5020078a7
+9ee663712c4f9c1fe67c706a4e18cf73798bf978cf2e19b9b2b37bf3c4e02dad
+39fe58a75520afedafd6ebf52ece63ea620200d0bb5ee6634f9e17e65c70aede
+f9b4fc2d0e8d6074520fed88a3efefc1a77e68d147b98d7a5bb96ceaf5d2d47a
+6b5fabd5cba69ecf6d636e593e9f7acf5af15e052600f03447e63f2dc4feef3e
+8623720e186dee039d51be1a7b6814a363a2a3b233e75a7464fe419fa9e5d962
+bdecf86c6b94eb5fd17a35756c478fb77c7f7dfef5b6e796b558afb4767b61cb
+b27af956f1fef8630aad3e250600b8c2d139d05e2de65f3d8873c87a66ae708c
+d773bd37cf150f8de659c5653928f15ab633ecd96e794c57b42dcaf7c4cfa3c1
+5befbf7cbe76598bf54a6bb757dbfbbe2d623bf197fae62e2c0000bd69350f5a
+2bf677f53ecf14f3ed6c4bd6aef764978c6a044f16904b3e05590662cb606cb9
+adb394e7bdb51d556fa37c5eee275baa1fd72dd58feb36a57e7deaf9d4fbcbd7
+ebe5e5e323623b3ebd04009ea4d53ce8937afef516f1a142b6256bd77bb24b46
+3782684d7119d6065c06e7d1003dfafe9ed4fdd1e2dcea6dacdd7eebf54af57a
+2db6bf76df6bc4b67c7a09003c45cb79d09c2bf6c1fd2e19e508a6d6c56529de
+53b62df6ecaf3753e71dcfd7f4f727e576ebfd4ced33b55eaf54bf67ed36b62c
+3b22b6e5d34b00e0295ace836ab1ed33b74f5f2e19e908a8338bcb5a06f19a6d
+b5d8df5d96ceb1e57995fba9b79bcba65e2f2dad57be36b75ead5ca75e3797d5
+af87b96553ebee15dbfaf9e79f9b14f70000676b390f4a53f3ada78af398fa3a
+ebdceb23bb64c4a3e3af2c2e4bb1bd6c535aefef0a4be79362797c3593eb45df
+2b2e0180a768391f5e334f7d9a389fa93fc433f7fac82e19f9e8f8b5c565382b
+2063bbd9d259fb3a437dec4b22c89f746e6f117dfec30f3ff85a2c00f0182de6
+8c5be6a94f13e73555cbd4af671f448b7960f989e6dcb2781e8ff3e7d33f05bd
+2402a2b3a606644eac7fb6d847b6deed39ce0c52ae157dfed34f3ff9833e00c0
+631c9933ee99a73e4d9cdf542d53be1e8fa368ac9fe79c7c6959b4983b9645e7
+535d1209d161d9996bc4fa57c901cdf62611a06f3ba79e455ffbd41200789abd
+f3c551e699719e53b54cf97a3e8e22315f2b0bc872593ecfb97abcfecf7ffe53
+71b956d9f16bc4fa57a9f715cfb33d5d0633e7cb7e8e4f2dffbfffefff7bfc85
+010018c7d6f9e25be6ca6bc5b94ed532e5eb592866cbd7723e5eb7b2d08cc7d1
+de307f3c3d2aa2c3b2e3e2e7da4e8bf5afb0b49f5896eda932d03957f4b14f2d
+0180275a3b577cfabc78af38e7a863a295cad7a3c68939603e8f656571999f4e
+c6b22c2c739e9eef7983d3a3233b2c7fae9d78c7fa5758bb9f582fdb93444067
+ff738ee8db282cf32fc4bee1b74e00c0383ecd139f38076ea92c02739e97cfb3
+be89e7f1335fcbe5b9ac2c2eeb65f99e37383d4ab2c3b6765cac7f853dfb89f7
+94ad776581f984e37d92e8cf1f7ffc516109003cd6dcfcd0dcf1ab98df652198
+2deb9a783d96472b97979f4e4ebd37df97cfa3bdc1a9d152765674703e5f3301
+8f75afd0623fb18d6cbd8a3e8fbe8faf6df67c9c4f91e3ed134b00e0e9a6e686
+e68bdf8a795e148459db44cb02f1d3f2a565f133db1b9c1a3511946507e6f3b5
+9d774550b7de476c2f5b6f3280b3d0679fe8bbf8b432fe784f14eb11d3d1b700
+004f54ce0b7b9dc7f6a02c12e3673dff5b5a3eb72c7e667b8353232702333a30
+dad4f34fae08ec33f711dbced69308de18831e8fad77d15ff935d828d2a72e2c
+00004f927342f3428e3a2d822238b3908c0978889ff9fa9a09f915017e5512c5
+7eaedad71a5960e6d7647b3ab61e651ff91a2c00f026e681b4745a2445906671
+9993f0f899af67c1b9e48a40bf3a99627f57ef734e8c478c437c02571699bd1c
+df9dcabe881645a5afc102006f91739c7c0c2d9c164911a4595c96e65e9f7376
+b0df954cb1dfbbf65dab8bccf8642e8faf9763bc4279ce594c465f448b7ef135
+5800e00deaf9dd48f33dce754a2445806601597f4219cf73f99a49fad9c17e77
+32f594cc5964c6d84c159a6f95e7571694594c9671aca804009e6c6e4ef7e679
+1ed73a2592224073525e4fc8e3792eaf0bcf2967077b0fc914c7d0c37194a60a
+cd3cceb23d517d0ee5575eb3a0544c02006f91739e394bcb608b53222902348b
+cb299f9697ce0ef69e92298ea5a7e3495968969f6666cb63eef5d8ebe38be62b
+af00c00872eef3c99a75608de69114c19985e3dc2793f17aaeb766327f66c0f7
+984c714c3d1e57f96966b6bae0cc639f6bad4deda36c7521591693790e8a4a00
+e04d721eb4d696756149f3488ae0cc49fbdc843d5ecff5e60ad0d29901df7332
+3d21d1eb8273ead3cdb2c539b56c53c563d9ea4232634e310900bc51cc8fb6da
+f31e98d23c9262e29e6dc9daf5c29901df7b323d2dd9eb62b36e9f8acfad6daa
+782c5b1c8b42120018c1de79a3e292569a47524ce4b32d59bb5e18b9b80c718c
+6f49fa18efa5e2736b533c0200a33b3a577ccb3c93fb3d2692ce0afa2725d3d1
+0b070000efd16a6e687e492b8f89a4b382fe89c9d4ea420200c0f3b49e0b9a57
+d2caa6488ac0fbf455d635eb4cf9f4beb382fec9c9f4e4630700609b98fb9d31
+ff33a7a495d591144117ffbe2d7f2e1581b13cda1659582a2eb789e37ffa3900
+00b0ecccf99eb924adac8ea408baf8032af9b32c1ee3b568597ce61f5b89c751
+2c96cba79ee736e2796e63ee7dad9db1cd3b645fedf5967e00007893a373bc35
+cc036965752445d095c565b47c3d8abf5c162dff6b88b9e7f9fe785c168e6571
+19ad7c5fbededa19dbbc53f6dd1e6feb0b0080a73a32a7dbca1c905656455204
+5c168451f0e5f32c0af3f52c04ebc7fffce73fbf795e2e8f9f5938c6e3b9f7e5
+cfd6ced8660ff69cd75bfb0200e029623e76f59ccc1c90565645520679d9a2f8
+ab8bc22c36cbe2318bc97259f93cdf5b3f9e5a2f7eb676c6367b11e7b6f5fcde
+dc1f0000bdda336f6bc5fc8f56564552045c147af52790755198ebe6f3a565f5
+f3b5ef8bc72db5de5e8fe21cd79ee708fd0100d093bbe75fe67fb4f2319222d8
+a2a8cb4f12f371be9e3ff371b4358567fd7ceef1d47a2db5de5ecfd69eeb487d
+020070979873f530ef32f7a3958f9114c196855d7c4535945f55cd42339fc74f
+c565bfe27c3f9df3687d020070a535f3b12b99fbd1cac748cabfe01aad94af45
+c1973fa3656199cbb395ef997a3ed7eaf55a07ffa8c9f4e9a2e6220300d0d6a7
+f9d75dccfb68e56324c5a794d94ae5ebd1ca02b05e16ad7e4ffd7caed5eb8596
+09307a32cd5de45c640000da989b6ff5c2bc8f561e19492d1340327d35d50ffa
+060060bf984b3d613e65ce472b8f8ca496092099fe545f005bf74d6ebf75cb4f
+cb01007a117394a778d2b1d2b7474652cb04904cdf8b3ec97e59db3ff99ea596
+ff2eb7759bda57dd14a000c01572eef1244f3b5efaf5d8486a95042325535eec
+a6da94b965e5fbb24d157d77fae5975ffef8e352d1eae3556c02002de51ce389
+9e7adcf4e7b191d42a0924d35779415cd37a2920f78ac273eabcb2293c0180b5
+72fef0644f3f7efaa1b8944cdfc98b6459443eb5905cabfca433cf5f910900cc
+c9f9c21bbce53cb89fe25232fd212f922314939f949f6e2a320180d2dbe68f6f
+3b1feef3e8486a91082327539c7bd9462f28e7947da4d0048071e57ce06dde78
+4edc4371396032e585d12794db65df293201601c79ff7fab379f1bd7525c0e94
+4c796154501e977da9c80480f7cafbfddb8d708e5c437139c805239aa2b2bdec
+db680a4d007887bcb78f62a473e55c8f8fa4a3c9f0e664ca0ba3a2f21ad9df8a
+4c0078ae37cf0de78c78ce9c4371f9d264ca22476179ad9f7ffef98fbe576002
+c073c4fdfbadf3c24f463d6fda535cbe3099e29ca2b8e9d12817af38cf28ec15
+9800d0b7b8678f323f9933faf9d3cee323e96832bc2d99e27c7a2d2cc34817af
+3857052600f429eed323cd4b96e8075a7945241d4988b725538bf3896dd4dbc9
+e7e5ebb95ebd6e985ab6f6b529e53ae5ba73af652b2d3dcfc753efdb2bb6f3cb
+2fbf745dec03c0685adeebdf427fd0ca2b22e94842bc2999e25c8efe1bcbb23f
+eac773cbc29e654beb95eaf77c7a5edab26c69ddbd623bbffefaab4f2f01a003
+adeeef6fa35f68e51591742421de924c711e2d3e219beb8ffaf54fcf4be5b2b9
+c7616e1b4beb7ddac6da753f6de788d896afc702c0bd5adedbdf46dfd0ca2b22
+e94842bc25995a9dc7dc76ead7e379dd4a73cbeac7759b52bf5e3e5f5a16d6ae
+fb693b47c4b67c3d1600ee11f7e196f7f537d23fb4f29a48da9b146f49a656e7
+31b79dfaf5a5fd2dad3bf778c9daed85bdeb7edace51b13d5f8f0580ebc4bdb7
+f5fdfcadf413adbc2692f626c51b9229cea1d5ff6759f6c7dce3b0f4bc7ebcb4
+ac543f4ff57bb66c636edd78fce9794bb13d9f5e02c0f9ea7b3a9fe92f5a794d
+24ed4d8a372453eb7388edd5db9cda47aeb7b42c1fa77afd7c5ebe36a55ca75c
+77ea7db9eed2b27c9ccad7cad75b896dfefcf3cfcd7e0900007cebac7bf808f4
+1badbc2692f626c51b9229ce21be72398a33c6ecec3888ed2b2e01e01c6f98cf
+dd49ffd1caab22694f62bc2199e2ab966fbe28c4b995ed0c67f65f6cfb871f7e
+f0b5580068ecccb9c148f421adbc2a92f624c61b9229fe488c8b42bf626c7efa
+e9277fd007001a897babb94f3bfa92565e15497b12e32dc9f4f64f2f9f2ac6c4
+a79600d046dc57cd77dad3a7b4f2aa48da93186f49a6f8442cfe3d9f8b433f62
+2c7efcf1c73ffeada54f2d01609fb8a79ae39c47dfd2caeb22696b72bc29997c
+3db62f3116be0e0b00c798db9c4f1fd3caeb22696b72bc2d997c3db60f3106be
+0e0b00fbc5bdd49ce61afa99565e17495b93e36dc9e4ebb1f78bbef7755800d8
+27eea3e631d7d2dfb4f2ba48da9a1c6f4ca6b2c074b1b84ef6777c62a9b00480
+6dcc5beea3df69e59591b42541de9a4c5960c6d732f362edc2718eecdb282ae3
+df58469f2b2c01601d7394fbe97f5a7965246d49903727531437f1effde20fca
+44c1139fa6b980b7937d591695d1d7d1e70a4b0058664ed20fe3402baf8ca42d
+093242326591199fa665a1e982be5ff69da21200f63107e98bf1a0955746d296
+04192d99ea4f33e3fcb331adeca3688a4a00d827efa5f4c598d0ca6b23696d92
+8c9a4c7591e92bb3dfcbfec86232fa289aa21200b631c7e89bb1a195d746d2da
+24193d99b2c8f495d93fe5f9d79f50461f45535402309abdf382d1e7144f618c
+68e5b591b4364924d39fea4f33f38630d5de60eabca2f9da2b00fc29ee8d5be5
+3d95673056b4f2da485a9b2492e97b7591995f072d5bde34b2f5ae3ede68f5d7
+5db3292a01e04f71cfdc62ebfadccf98d1caab23694da248a6795964e6d741cb
+56179ed18f9fda95ea7d4f15925944d6e7a6a80480afb6dcbff39ecbf318375a
+797524ad4914c9b44f5d782e7dca992d6f3a57b4b93fc2a3880480f5e29efa49
+de7b792ee3472baf8ea4b517448e5bfa9433db9a02b455ab8b498524006cf369
+8e14cbcda3dec138d2caab23694da248a6ebac29405b35c52400ecb7343f8a65
+e64fef623c69e5f591f42959241370859c8c9dddfc62056821ae2753e65ee7d9
+8c2badbc3e923e258b64025a8a6bca549bfa84fd8c36b5ef688a4e60adb866d4
+f25ac23b195b5a797d247d4a16c974aebc195dd54ca039d354ccd52d0abc1e4d
+1d6bdde40fb435956767b656391cdb4ab96ddecd18d3caeb23e953b248a6b6f2
+2694adfe54e5ec56efdf6499bdea588a9671f646f147b0a6ce590ec13a53f953
+de9fae6853c7b03587e33df9331ff37ec69a568688a4a584914cdbe4cd66aee5
+0dae077393e56c26cd4cc545b69e62f92e4b3924778edf3ff6beffe87ed92763
+7faee535a3a77b60fcd5f4a963cd36751fcc658cc598d3ca1091b49430926959
+de64b2f576f3dccba734e3aac7fb2d317d95a909ab9cd927fa6e8fbdef639b32
+c6a395d78aa75f2fd6149e5b1acf671c696588485a4a18c9f4bdbc59447bc34d
+74adb2e05464bed388717db637e64d9ccb9c72d9d4e3f839f5fea9d7cbe74bcb
+42f9feb96553afcf595a36b2b22ff33a31d23db02c38dd07c712630e2d0c1149
+4b092399bebd994633e9febe4fdc649fa91e47b17daeb2af9f9633e5b1d7e696
+95cfebe5471e87a5f5d6be2fe4faf5eb6169d928ca3e88365231f949dd37ee83
+ef16630c2d0c13497349336232e58d229b9be967759fb9c9f62dc7496cdfe749
+b912c73967edb27abda56569effbd72eabed5df63671aed95c23d62bfbcd3df0
+7d625ca1856122692e69464aa6bc29e4cdd40d751f5f9fed571de3dcef29b992
+c719ad36b7ac7cbe6559dafbfe7a59dd4a73af87a5656f94e7eafa705cf6a57b
+e07b8c721de07cc344d25cd2f4964c671c4f6c335ade50dd54db5064f6a38c71
+fa9463f4847c89639c532e9b7b1c9696a5bdef5f5a56dabbec6de25ca3b9ffb5
+977deb1ef87c235d1338d730913497343d26535eac5b88edc445df4df53c8acc
+fb64bf8bed67794bbec439a4f271985bb6f6f19e65a17e3eb2ec2bf7bff3655f
+47731f7ca6183b6861a8489a4a9c9e93e9c8b1c57ba3b9a15e2bfbdc8df55ce2
+fb1d721c9f3a198d634fe5e330f57ccb3a7b96d5af8f2afb425179bdfc65ab02
+f3795c3f6865a8489a4a9cde93298e6feb31c6fa71617753bd478e999beb39c4
+f7bbfcfcf3cff285665c1ffae03ef83c315ed0c270c5e55cebddda638cf5dc58
+ef67c27c8eec53de27c636ae5bf285bddcfffae23ef82c3156d0c2f09194c914
+3fb7b6ab7dda6f2ceb71e2fde998df2ccecf84b98dabe2bb8cc916b1bb763dbe
+f6957c618f889d5e7ff134fa35405e3f837b15ad0c1f49479229debba71d35b5
+8d78ed8937d616fdd1bb384737d663ae8cefb531d97a3dbe3a9a2ffa7b3c31e6
+bddefff8ea685e733ed74e5a193e92ee48a6d8e7d6562b5f8f9f77dc58f318f2
+384ae5ebf5f2a56569ea3da5dcc6d4fbe796e5f3a9f79c2df6e9c6ba4ff4ddde
+f89e8b81108fb395ea754ae5fa73cbcad7d7be56cb6573ebe5ebe5b27abd4fcf
+c39af764abcd2dcbe753ef592bdebb355fa68e85f78b31efa5b0cc18ace370ea
+79be562e2b5f2b5fafd5cbf66ce30e713cee83fdea2d5e78aee123e929c99437
+8aa9765761592a9fd78fd72e2bd5afcf6d236c59562fbf52ecdb8d759be8b323
+f15d8f773e9f7b3dac7d3cb72c2cbdaf543f4ff1fad66dccbd9eeae761699d23
+cbeae57bc436d6e44babfdf13c31ee3d1596a5f2f9d2e34fcfa7d4afefd9c65d
+e278dc07fbd45bacf05cc347d21393298e398f3b2fd4772bfbb1eed3b5cb4a5b
+b651dafbbe2bc4fee3cfb4f732197a82e8b3a3f19de3be34fee5b2358fc3d1ed
+85b96d2cadb766d9dccf5afd7af97cee3d61effbb688ed7cca9756fbe29962fc
+7bb8ff85a5582c97d5ebad5d566ab18dbbc4f1b80ff6a9b758e1b9868fa42725
+531c6b7dbc771e7f1e4f7d5cf531ad5d56fab45e3ccf562a5faf97978fef10fb
+8fbf9ed7cb64e8095a8c596ea3de563c2f5b5af3384c3d2f5baa1fd76d4afd7a
+f9bc7c6fb6948fe77ed6ead7a79e672b95afd7cbcbc747c476e6f2a5de2763ea
+2d06322eebe32a9fef5d566ab18dbbc4f1b80ff6a9b758e1b9868fa42724531c
+e3dc71de75fcf57ecbe77b9795d6ae1796b65f5a5a769538865f7ffdd5578256
+88be6a3101c9712fc7bf8e85b9657bde13d66e63cedaedd572d9dccf5afdfadc
+7aa15cb676bda3625b65bec4f396dbe7d97a8e85f2d8e61e87b5cb4a2db671a7
+3826f7c1fef4182b3cd3f091d47332c5b12d1d5f2cbbebb77fe571d5c7b97759
+6969bdfa3d7b97dd218ec15782d689be6a15df9fe2a27e9e961eef5d56aa9fa7
+a5f53e6de3d3f352bdddfa7969efb223625b912ff1b3e57679be88879e3efdaa
+e3b37cbef4786e59a89fa74fdba89ff7268ec97db03f3dc60acf347c24f57ae1
+5d735c771f7b799cf5b1ec5d565a5a2f97d5af87b96553eb5e2d8ec15782d669
+395e53db8ad7f2f572f9dce330f79e30b7ac7c3de4f3f2b55abd6ceaf9dc363e
+bdb7566e67eabde5f2d2dcb2a975f72af751b6dad43ad16a53eb44ab4dad13ad
+36b54eb4dad43ad16a53eb44ab4dad13ad36b54eb4dad43ad16a53eb44ab4dad
+13ad36b54eb4dad43ad17a33776c53cff3b572d9a7f7953e6da35cde9b382ef7
+c1fef41a2f3ccff091d453326dbd19c4baf1d5129e23c6cc4d751df14de64bfc
+8c06e92dd787d671fd843c8963741fec8f6b2cad0c1f494f4ea6f84a898bc173
+c458fdf0c30fbe0eb452f497e2725c53f912afb9e6119e7affcb183e2b967bef
+93383ef7c13ef51e3b3cc7f091f4e4648a7f0cef62f01c31563ffdf4933f64b0
+925f9e8c6d295f6299d8189bfbdf332de535f7924fb4327c243d3d99e2f8e337
+80f42fc6ca5781d6cbc9a3f81ed39a7c79faf59b635c1f9ec77db05faea7b4a2
+b87c7832f974e719628c7c15683bf13da62df912eb8a9131b93e3ccb96bce67a
+728956868fa4a727537cbae306dbb7189b1f7ffcf18fdfd6fa2ad07ae27b3c7b
+f325de274ec6e2faf01c7bf39aebc8235a193e92de904c71918e8bb50b437fdc
+508f13dfe368912fe2642cae0ffd731f7c0639442bc347d25b92c90db63f6ea8
+ed88eff7932fece5fad02f79fd1cf28756868fa437255379837591b8971b6a7b
+2690ef255f38cafdaf3ff2fa59e40dad0c1f496f4ba6bcc1c63f9877a1b85ef4
+79b4f8a3056ea8ed9940be8b7ca125f7bf3ec8eb679233b4327c24bd3199e222
+1e7fe420fe1fa9bcc873bee8e7f82d6dfc1f5e31b971433d473d8114dfcf93e3
+16934ff9424b53f73fd7886bc8eb679327b4327c24bd39994cc2af917d9bbfa5
+8d494d4c6edc50cf534e20cbf816e3fd2ac7a89c7cca17ce50deffe2baecfa70
+1e79fd0ef28356868fa4b727d3dc249ce3b22ffd96f63e757c9b44f625c722c7
+c3e4932be5f521aecbee81ed655fcaeb779017b4327c248d924cf5243c6f0a65
+e37b53fd94cd0db51f26917d29fbfe1ffff8875ce1769fee81ccabfb2a9bbc7e
+9718536861f8481a2d99ea1b6c7cd2132d6e10e54d836f27c87ffffbdfffb891
+669fb9a1f6696912c9b9cabe2e7346aed08ba97ba0fbdfbcb24feafba0bc7e17
+b14f2bc347d2a8c99437d8f8a4a7fcb4270ba7f28632923cef6873c564f6991b
+6adfa62691e5f8d246d9a77e01c35394f740f7bf6fadc969f7c0f71939e6696b
+f848924c5f9537daf2665bde64b2bd497d6e53bf95cd3e71237da6b9496439ee
+6c53f69d9ce1e946bdffa5fa1ce5f498de1adf5c6ff848924cd3f2665b4ec6b3
+9537a1baf566ea18cbe6b7b263292791656c4fc5065f4df5cddce453cef0066f
+b9ffa5a9632d9bfb202162015a183e9224d3b272329e6dea869badbc61ddd1b7
+f5feeb9b66ddca9ba81be958cad85e3b897cbba9739eca21934f4670f4fe17ed
+6a53c7e03ec81a112bd0c2f0912499b69bbae166ab6fbce50dee8ab6f41bd8a9
+e6264a583b899c8ab9baf56aea58ebf6a990cc266f18d596fb5fb4a93c3bb3ad
+cde1b2c96742c40fb4a0b8944c4dd537dea99bed99adbe89ba69b2d7d424724d
+3c9713bdb25d656adfd13e7d7a116d6a122a87609dbdd78c964d0eb357dc27a0
+05c5a5643ad5d4cdf6cce626ca99d6c4f3dc64b22cf4ce6c7345e4d4a4b36ef2
+07da720fe429e2fe012d282e2513d0d0dc64f2aa4f30e68a48934e00e6980fd3
+8ae252320117b8ea130c4524005b990fd38ae2523201003030f3615a515c4a26
+000006663e4c2b8a4bc90400c0c0cc87694571299900001898f930ad282e2513
+000003331fa615c5a56402006060e6c3b4a2b8944c00000ccc7c985614979209
+008081990fd38ae2523201003030f3615a515c4a26000006663e4c2b8a4bc904
+00c0c0cc87694571299900001898f930ad282e2513000003331fa615c5a56402
+006060e6c3b4a2b8944c00000ccc7c985614979209008081990fd38ae2523201
+003030f3615a515c4a26000006663e4c2b8a4bc90400c0c0cc87694571299900
+001898f930ad282e2513000003331fa615c5a56402006060e6c3b4a2b8944c00
+000ccc7c985614979209008081990fd38ae2523201003030f3615a515c4a2600
+0006663e4c2b8a4bc90400c0c0cc87694571299900001898f930ad282e251300
+0003331fa615c5a56402006060e6c3b4a2b8944c00000ccc7c98561497920900
+8081990fd38ae2523201003030f3615a515c4a26000006663e4c2b8a4bc90400
+c0c0cc87694571299900001898f930ad282e2513000003331fa615c5a5640200
+6060e6c3b4a2b8944c00000ccc7c985614979209008081990fd38ae252320100
+3030f3615a515c4a26000006663e4c2b8a4bc90400c0c0cc8769457129990000
+1898f930ad282e2513000003331fa615c5a56402006060e6c3b4a2b8944c0000
+0ccc7c98561497bf2593a6699aa6699aa68ddca00591040000c0618a4b000000
+0e535c0200007098e212000080c314970000001ca6b8040000e030c525000000
+87292e010000384c71090000c0618a4b0000000e535c0200007098e212000080
+c314970000001ca6b8040000e030c52500000087292e010000384c71090000c0
+618a4b0000000e535c0200007098e212000080c314970000001ca6b8040000e0
+30c52500000087292e010000384c71090000c0618a4b0000000e535c02000070
+98e212000080c314970000001ca6b8040000e030c52500000087292e01000038
+4c71090000c0618a4b0000000e535c0200007098e212000080c314970000001c
+a6b8040000e030c52500000087292e010000384c71090000c0618a4b0000000e
+535c0200007098e21200008083fefbdfff1fb537cca24adf9732000000004945
+4e44ae426082}}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Design:}{\s12\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Our design includes the following classes or tables in the database:}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s12\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\qj\fi-425\li720 1.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1051\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls3\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Person : consists of user data, including password in MD5 format.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 2.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1051\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls3\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Groups : consists of the group ids and names of the groups present in our application}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 3.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1051\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls3\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Group_Person : has the group id, person id and status of whether the user is approved or not to be a part of the group.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 4.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1051\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls3\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Post : consists of post created by which user and the group to which it belongs}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 5.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1051\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls3\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Comment : contains the comments by a particular user with the post id to which it belongs.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 6.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1051\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls3\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Phone : contains the phone number of the user}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 7.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1051\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls3\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Phone_Type_tb : contains the type of phone number that the user selects while signing up, be it mobile, work or any other.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch To retrieve the comments for each post, we associate the post id as a foreign key in the comment table. To get all posts posted by a particular user, we refer to the person id as the foreign key in post table. Group_Person table is an association class between groups and person table which contains the following:}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1075\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Group id - has the id of the group to which a user requests to join or has joined}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1075\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Person id - user\uc1\u8217\'92s id}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720\bullet 	}\pard\plain{\ltrpar\qj\fi-425\li720\s12{\*\abilist\abilistid1075\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\sl240\slmult1\itap0{\s12\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch flag - status of the request by a user to join the group. It could be one of - \uc1\u8220\'93approved\uc1\u8221\'94, \uc1\u8220\'93rejected\uc1\u8221\'94 or \uc1\u8220\'93pending\uc1\u8221\'94}{\s12\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch One can determine the role of a person by selecting the \uc1\u8220\'93role\uc1\u8221\'94 column in person table which would be one of - \uc1\u8220\'93User\uc1\u8221\'94 or \uc1\u8220\'93Admin.\uc1\u8221\'94}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Implementation:}{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The following software and technologies have been used in the application:}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+{\listtext\pard\qj\fi-425\li720 1.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1144\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls5\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Software interface is a GUI in HTML/CSS and JSP in Eclipse.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 2.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1144\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls5\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The client side validation is performed using javascript.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 3.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1144\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls5\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Middleware consists of two things - RESTFUL API for sign up process and JPA by creating entities and performing all DAO operations}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 4.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1144\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls5\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Backend consists of MySQL database}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch We have used Java as the core programming language and javascript for validations.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Discussion:}{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Section 1 : GUI and Client side validations -}{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The GUI is implemented using HTML/CSS and JSP in Eclipse. For client side validations, javascript has been used. One of the examples is the login page which has the following code:}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <%@ page language="java" contentType="text/html; charset=ISO-8859-1"}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch pageEncoding="ISO-8859-1"%>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <html>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <head>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <title>LOGIN</title>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <link rel="stylesheet" type="text/css" href="Login.css">}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <script type="text/javascript">}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab function validate()}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab var x=document.forms["LoginForm"]["txtUserName"].value;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab if(x==null || x=="")}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab alert("Please enter a username.");}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab return false;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \}\tab }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab else}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab return validatepwd(document.forms["LoginForm"]["txtPassword"].value);}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab function validatepwd(pwd)}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab if(pwd==null || pwd=="")}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab alert("Please enter a password.");}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab return false;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab </script>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch </head>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <body onload='document.LoginForm.txtUserName.focus()'>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <br></br>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <br></br>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <br></br>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <br></br>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <br></br>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <form name="LoginForm" action="loginServlet" method="post">}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <table id="outer" align=center>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <td><h2 align="center">LOGIN</h2></td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch </tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <% String value = new String();}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab value = request.getParameter("chkuser");}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab System.out.println("value = " + value);}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab %>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab <font color="red"><% }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab if (value!= null)}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab if (value.equals("true"))}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab out.println("Wrong username and password, please try again!"); }{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab \tab \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab %></font>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab </td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch </tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch <table>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab <tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <td><h4>User Name:</h4></td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <td><input type="text" name="txtUserName" id="txtUserName"></input>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab </td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab </tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab <tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <td><h4>Password:</h4></td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <td><input type="password" name="txtPassword" id="txtPassword"></input>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab </td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab </tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab <tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <td></td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <input type="submit" name="subLogin" id="subSubmit" value = "Login" onclick="return validate();">}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab </td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab <td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab <a href="SignUpForm.jsp">New User?</a>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab </td>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab </tr>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch </table>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch </form>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch </body>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch </html>}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The javascript validations check for blank user name and password and displays appropriate message to the end user. If the user enters wrong username or password then the error message - \uc1\u8220\'93Wrong username and password, please try again!\uc1\u8221\'94 is displayed.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The CSS file for login page to enhance the look and feel is as follows:}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch body}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch margin: 0px;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch padding: 0px;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch background-image: url('rarity.jpg');}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch font-family: 'Source Sans Pro', sans-serif;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch font-size: 12pt;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch font-weight: 300;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch color: white;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch h2}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch color: white;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch text-align: center;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch font-family: 'Source Sans Pro', sans-serif;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch text-shadow: 5px 5px 5px #FF00FF;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch #outer}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch outline-style: outset;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch outline-color: white;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch outline-width: thick;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch a}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \{}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch color: white;}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Section 2 : Middleware - JPA -}{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Following the MVC Architecture, our model consists of all the JPA entities for Comment, Person, Groups , Post, Group_Person, Phone tables. An example of one such entity for Comment is as follows:}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch package model;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import java.io.Serializable;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.persistence.*;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch /**}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch * The persistent class for the comment database table.}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch * }{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch */}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch @Entity}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch @NamedQuery(name="Comment.findAll", query="SELECT c FROM Comment c")}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch public class Comment implements Serializable \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab private static final long serialVersionUID = 1L;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab @Id}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab @GeneratedValue(strategy=GenerationType.IDENTITY)}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab private int id;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab private String comment;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab //bi-directional many-to-one association to Person}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab @ManyToOne}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab @JoinColumn(name="person_id")}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab private Person person;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab //bi-directional many-to-one association to Post}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab @ManyToOne}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab @JoinColumn(name="p_id")}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab private Post post;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public Comment() \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public int getId() \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab return this.id;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public void setId(int id) \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab this.id = id;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public String getComment() \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab return this.comment;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public void setComment(String comment) \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab this.comment = comment;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public Person getPerson() \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab return this.person;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public void setPerson(Person person) \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab this.person = person;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public Post getPost() \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab return this.post;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab public void setPost(Post post) \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab this.post = post;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch The controller has the servlet for each of the functionality like login, commenting on posts, posting in groups etc. to enable interaction between the front end and backend to query database. Here we use Entity Manager to query using JPA. Below is an example of a group servlet that displays the comments and posts in a particular group:}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch package controller;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import java.io.IOException;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import java.sql.SQLException;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import java.util.HashMap;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import java.util.List;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import java.util.Map;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.persistence.EntityManager;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.persistence.EntityManagerFactory;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.persistence.Persistence;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.persistence.Query;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.servlet.RequestDispatcher;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.servlet.ServletException;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.servlet.annotation.WebServlet;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.servlet.http.HttpServlet;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.servlet.http.HttpServletRequest;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.servlet.http.HttpServletResponse;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import javax.servlet.http.HttpSession;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch import userDao.UserDao;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch /**}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch * Servlet implementation class GroupServlet}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch */}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch @WebServlet("/GroupServlet")}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch public class GroupServlet extends HttpServlet \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab private static final String PERSISTENCE_UNIT_NAME = "ws1";}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch private static EntityManagerFactory factory = Persistence.createEntityManagerFactory(PERSISTENCE_UNIT_NAME);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab private static final long serialVersionUID = 1L;}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch /**}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch * @see HttpServlet#HttpServlet()}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch */}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch public GroupServlet() \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch super();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch // TODO Auto-generated constructor stub}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab /**}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab */}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab // TODO Auto-generated method stub}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab this.loginRequest(request, response);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab }{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab // TODO Auto-generated method stub}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch public void loginRequest(HttpServletRequest request,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab HttpServletResponse response) throws ServletException, IOException \{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab UserDao dao = new UserDao();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab String group_id = request.getParameter("group_id");}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch EntityManager em = factory.createEntityManager();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab em.getTransaction().begin();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Query  query =em.createNativeQuery}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ("select id, post, p.person_id, group_id, first_name from post p, person per where p.group_id=?1 "}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab + "and p.person_id = per.person_id");}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab }{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab Map<Object[], List<Object[]>> map = new HashMap<Object[], List<Object[]>>();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab List<Object[]> obj = (List<Object[]>) query.setParameter(1, group_id).getResultList();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab for (Object[] objs : obj)\{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab System.out.println("id is" + objs[0] + "Post is"+ objs[1] + "Person id of post is" + objs[2]);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab System.out.println("Post Name is " + objs[4]);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab Query query2 = em.createNativeQuery("select c.comment, c.id, c.person_id, p.first_name from comment c, person p where c.person_id = p.person_id and c.p_id =" + objs[0]);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab List<Object[]> obj2 = (List<Object[]>) query2.getResultList();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab map.put(objs, obj2);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab for (Object[] objs1 : obj2)\{}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab System.out.println("Comments are " + objs1[0] + "Person id is" + objs1[1]);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab }{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab request.setAttribute("mapData", map);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch em.getTransaction().commit();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab em.close();}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab RequestDispatcher rd = request.getRequestDispatcher("Group_page.jsp");}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \tab \tab rd.forward(request, response);}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab \}\}}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Section 3 : Backend Database -}{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\i\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Our backend consists of MySQL database used for creating tables and querying to retrieve results and display on the frontend. The following are the create tables used:}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch create table person}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch (}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch person_id int primary key auto_increment,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch first_name varchar(50),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch user_name varchar(50) unique,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch password varchar(50),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch role_name varchar(10),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch last_name varchar(50),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch user_city varchar(50),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch user_gender varchar(50),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch user_state varchar(50),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch user_age int,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch user_email varchar(50)}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch );}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch create table groups}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch (  }{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch group_id int primary key auto_increment,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch group_name varchar(50)}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch );}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch create table post}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch (}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch id int primary key auto_increment,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch group_id int,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch post varchar(2000),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch person_id int,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch foreign key(person_id) references person(person_id) on update cascade on delete cascade,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch foreign key(group_id) references groups(group_id) on update cascade on delete cascade}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch );}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch create table comment}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch (}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch id int primary key auto_increment,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch p_id int,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch person_id int,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch comment varchar(2000),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch foreign key(p_id) references post(id) on update cascade on delete cascade,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch foreign key(person_id) references person(person_id) on update cascade on delete cascade}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch );}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch create table group_person}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch (}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch group_id int,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch person_id int,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch flag varchar(20),}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch foreign key(group_id) references groups(group_id) on update cascade on delete cascade,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch foreign key(person_id) references person(person_id) on update cascade on delete cascade,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch primary key (group_id, person_id)}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch );}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch create table phone_type_tb}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch (}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch id int primary key auto_increment,}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch phone_type_value varchar(20)}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch );}{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f2\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Each of the above tables have their foreign and primary keys which is useful in connecting the tables to retrieve data accordingly. For example to retrieve all comments associated with a particular post, we need to join the comment and the post tables using JOIN in MySQL.}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s25\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s25\sl240\slmult1\itap0{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch Conclusion:}{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Our application serves in connecting users together via a common discussion forum. This could be used by a university to connect students from various groups together. For example, Northeastern University could have Undergraduate as one group, Graduate as one group and further groups within these depending on the different fields like Sports, Computer Science, Arts, Media etc. Future scope of our project is to include media like photos, videos upload and have separate administrators for different groups. Our project also has the scope of extension in functionality to make it more robust and user friendly.}{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch References:}{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s33\sl240\slmult1\itap0{\s33\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+{\listtext\pard\qj\fi-425\li720 1.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1161\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls6\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch http://en.wikipedia.org/wiki/Social_networking_service}{\s25\f0\fs32\b\ul\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 2.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1161\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls6\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch http://www.whatissocialnetworking.com/}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 3.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1161\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls6\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch http://www.w3schools.com/css/}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 4.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1161\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls6\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch http://www.w3schools.com/js/default.asp}{\s25\f0\fs24\lang1033{\*\listtag0}\par}
+}{\listtext\pard\qj\fi-425\li720 5.	}\pard\plain{\ltrpar\qj\fi-425\li720\s25{\*\abilist\abilistid1161\abilistparentid0\abilistlevel1\abistartat1{\abifieldfont NULL}{\abilistdecimal .}{\abilistdelim %L.}{\abiliststyle Numbered List}}{\*\pn\pnql\pnstart1\pnlvlbody\pndec{\pntxtb }{\pntxta .}}\fn-425\li720\ls6\ilvl0\sl240\slmult1\itap0{\s25\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Edward Sciore, \uc1\u8220\'93Database Design and Implementation\uc1\u8221\'94, 2009.}\par}}
